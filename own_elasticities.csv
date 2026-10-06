@@ -1,0 +1,862 @@
+market,brand,product,flavor,nest,price_per_serving,share,own_elasticity
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Delicious Strawberry,powder,1.4300,0.00127184,-2.9682
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Double Rich Chocolate,powder,1.4300,0.00127184,-3.0451
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Vanilla Ice Cream,powder,1.4300,0.00127184,-3.0325
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Banana Cream,powder,1.0300,0.00127184,-2.1842
+Birthday Cake,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Birthday Cake,powder,1.0300,0.00127184,-1.6523
+Other,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Cake Donut,powder,1.0300,0.00127184,-2.1179
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Hazelnut,powder,1.0300,0.00127184,-2.1933
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Malt,powder,1.0300,0.00127184,-2.1933
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Mint,powder,1.0300,0.00127184,-2.1933
+Cookies & Cream,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Cookies & Cream,powder,1.0300,0.00127184,-2.1356
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Delicious Strawberry,powder,1.0300,0.00127184,-2.1380
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Double Rich Chocolate,powder,1.0300,0.00127184,-2.1933
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Extreme Milk Chocolate,powder,1.0300,0.00127184,-2.1933
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,French Vanilla Creme,powder,1.0300,0.00127184,-2.1842
+Other,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Gingerbread,powder,1.0300,0.00127184,-2.1179
+Mocha / Coffee,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Mocha Cappuccino,powder,1.0300,0.00127184,-1.9615
+Mocha / Coffee,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Peppermint Mocha,powder,1.0300,0.00127184,-1.9615
+Other,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Rocky Road,powder,1.0300,0.00127184,-2.1179
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Strawberries & Cream,powder,1.0300,0.00127184,-2.1842
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Strawberry Banana,powder,1.0300,0.00127184,-2.1380
+Unflavored,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Unflavored,powder,1.0300,0.00127184,-1.3841
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Vanilla Ice Cream,powder,1.0300,0.00127184,-2.1842
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Banana Cream,powder,0.8200,0.00127184,-1.7389
+Other,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Cake Batter,powder,0.8200,0.00127184,-1.6861
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Coconut,powder,0.8200,0.00127184,-1.7461
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Malt,powder,0.8200,0.00127184,-1.7461
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Mint,powder,0.8200,0.00127184,-1.7461
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Chocolate Peanut Butter,powder,0.8200,0.00127184,-1.7461
+Mocha / Coffee,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Coffee,powder,0.8200,0.00127184,-1.5616
+Cookies & Cream,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Cookies & Cream,powder,0.8200,0.00127184,-1.7002
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Delicious Strawberry,powder,0.8200,0.00127184,-1.7021
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Double Rich Chocolate,powder,0.8200,0.00127184,-1.7461
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Extreme Milk Chocolate,powder,0.8200,0.00127184,-1.7461
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,French Vanilla Creme,powder,0.8200,0.00127184,-1.7389
+Mocha / Coffee,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Mocha Cappuccino,powder,0.8200,0.00127184,-1.5616
+Other,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Rocky Road,powder,0.8200,0.00127184,-1.6861
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Strawberries & Cream,powder,0.8200,0.00127184,-1.7389
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Strawberry Banana,powder,0.8200,0.00127184,-1.7021
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Vanilla Ice Cream,powder,0.8200,0.00127184,-1.7389
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,White Chocolate,powder,0.8200,0.00127184,-1.7461
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Extreme Milk Chocolate,powder,2.1600,0.00127184,-4.5996
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Delicious Strawberry,powder,0.7900,0.00127184,-1.6398
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Double Rich Chocolate,powder,0.7900,0.00127184,-1.6823
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Extreme Milk Chocolate,powder,0.7900,0.00127184,-1.6823
+Other,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Rocky Road,powder,0.7900,0.00127184,-1.6244
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Whey Protein,Vanilla Ice Cream,powder,0.7900,0.00127184,-1.6753
+Cookies & Cream,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Chocolate Cookie Crunch,powder,1.5200,0.00106149,-3.1711
+Chocolate,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Chocolate Mousse,powder,1.5200,0.00106149,-3.2422
+Chocolate,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Chocolate Peanut Butter,powder,1.5200,0.00106149,-3.2422
+Other,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Rocky Road,powder,1.5200,0.00106149,-3.1494
+Other,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,S'mores,powder,1.5200,0.00106149,-3.1494
+Vanilla,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Tahitian Vanilla Bean,powder,1.5200,0.00106149,-3.2310
+Vanilla,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Vanilla Peanut Butter Swirl,powder,1.5200,0.00106149,-3.2310
+Cookies & Cream,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Chocolate Cookie Crunch,powder,1.2700,0.00106149,-2.6496
+Chocolate,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Chocolate Mousse,powder,1.2700,0.00106149,-2.7090
+Chocolate,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Chocolate Peanut Butter,powder,1.2700,0.00106149,-2.7090
+Cookies & Cream,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Cookies & Cream,powder,1.2700,0.00106149,-2.6496
+Other,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Rocky Road,powder,1.2700,0.00106149,-2.6314
+Other,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,S'mores,powder,1.2700,0.00106149,-2.6314
+Vanilla,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Tahitian Vanilla Bean,powder,1.2700,0.00106149,-2.6996
+Vanilla,JYM Supplement Science,JYM Supplement Science | Pro JYM Protein Powder,Vanilla Peanut Butter Swirl,powder,1.2700,0.00106149,-2.6996
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Chocolate,powder,0.7500,0.00043548,-1.6078
+Mocha / Coffee,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Mocha Cappuccino,powder,0.7500,0.00043548,-1.5500
+Cookies & Cream,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Oatmeal Cookie,powder,0.7500,0.00043548,-1.5934
+Vanilla,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Vanilla,powder,0.7500,0.00043548,-1.6055
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Chocolate,powder,0.5600,0.00043548,-1.2005
+Mocha / Coffee,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Mocha Cappuccino,powder,0.5600,0.00043548,-1.1573
+Cookies & Cream,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Oatmeal Cookie,powder,0.5600,0.00043548,-1.1897
+Strawberry/Berry,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Strawberry,powder,0.5600,0.00043548,-1.1902
+Vanilla,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Protein Powder,Vanilla,powder,0.5600,0.00043548,-1.1988
+Cookies & Cream,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Chocolate Chip Cookie Dough,bar,3.7400,0.00020340,-7.8171
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Chocolate Peanut Butter,bar,3.7400,0.00020340,-7.9014
+Other,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Cinnamon Roll,bar,3.7400,0.00020340,-7.7163
+Cookies & Cream,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Cookies and Cream,bar,3.7400,0.00020340,-7.8171
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Chocolate Peanut Butter,bar,2.0800,0.00020340,-4.3944
+Other,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Cinnamon Roll,bar,2.0800,0.00020340,-4.2914
+Cookies & Cream,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Cookies and Cream,bar,2.0800,0.00020340,-4.3475
+Cookies & Cream,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Protein Crunch Bars,Chocolate Chip Cookie Dough,bar,2.0800,0.00020340,-4.3475
+Strawberry/Berry,BSN,BSN | Syntha-6 Whey Protein Powder,Berry Berry Berry Good,powder,1.2000,0.00079803,-2.5246
+Birthday Cake,BSN,BSN | Syntha-6 Whey Protein Powder,Birthday Cake Remix,powder,1.2000,0.00079803,-2.1695
+Cookies & Cream,BSN,BSN | Syntha-6 Whey Protein Powder,Cookie Doughn't You Want Some,powder,1.2000,0.00079803,-2.5229
+Other,BSN,BSN | Syntha-6 Whey Protein Powder,Germanchokolatekake,powder,1.2000,0.00079803,-2.5099
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Mint Mint Chocolate Chocolate Chip,powder,1.2000,0.00079803,-2.5650
+Banana,BSN,BSN | Syntha-6 Whey Protein Powder,Banana,powder,1.0700,0.00079803,-1.9333
+Other,BSN,BSN | Syntha-6 Whey Protein Powder,Candy Cane - Limited Edition,powder,1.0700,0.00079803,-2.2380
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Cake Batter,powder,1.0700,0.00079803,-2.2872
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Milkshake,powder,1.0700,0.00079803,-2.2872
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Peanut Butter,powder,1.0700,0.00079803,-2.2872
+Cookies & Cream,BSN,BSN | Syntha-6 Whey Protein Powder,Cookies & Cream,powder,1.0700,0.00079803,-2.2495
+Cookies & Cream,BSN,BSN | Syntha-6 Whey Protein Powder,Peanut Butter Cookie,powder,1.0700,0.00079803,-2.2495
+Salted Caramel,BSN,BSN | Syntha-6 Whey Protein Powder,Salted Caramel,powder,1.0700,0.00079803,-1.7189
+Strawberry/Berry,BSN,BSN | Syntha-6 Whey Protein Powder,Strawberry Milkshake,powder,1.0700,0.00079803,-2.2511
+Vanilla,BSN,BSN | Syntha-6 Whey Protein Powder,Vanilla Ice Cream,powder,1.0700,0.00079803,-2.2812
+Strawberry/Berry,BSN,BSN | Syntha-6 Whey Protein Powder,Berry Berry Berry Good,powder,1.1100,0.00079803,-2.3352
+Birthday Cake,BSN,BSN | Syntha-6 Whey Protein Powder,Birthday Cake Remix,powder,1.1100,0.00079803,-2.0068
+Cookies & Cream,BSN,BSN | Syntha-6 Whey Protein Powder,Cookie Doughn't You Want Some,powder,1.1100,0.00079803,-2.3336
+Other,BSN,BSN | Syntha-6 Whey Protein Powder,Germanchokolatekake,powder,1.1100,0.00079803,-2.3217
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Mint Mint Chocolate Chocolate Chip,powder,1.1100,0.00079803,-2.3727
+Banana,BSN,BSN | Syntha-6 Whey Protein Powder,Banana,powder,1.0200,0.00079803,-1.8429
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Cake Batter,powder,1.0200,0.00079803,-2.1803
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Milkshake,powder,1.0200,0.00079803,-2.1803
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Peanut Butter,powder,1.0200,0.00079803,-2.1803
+Cookies & Cream,BSN,BSN | Syntha-6 Whey Protein Powder,Cookies & Cream,powder,1.0200,0.00079803,-2.1444
+Strawberry/Berry,BSN,BSN | Syntha-6 Whey Protein Powder,Strawberry Milkshake,powder,1.0200,0.00079803,-2.1459
+Vanilla,BSN,BSN | Syntha-6 Whey Protein Powder,Vanilla Ice Cream,powder,1.0200,0.00079803,-2.1746
+Chocolate,BSN,BSN | Syntha-6 Whey Protein Powder,Chocolate Milkshake,powder,1.0300,0.00079803,-2.2017
+Vanilla,BSN,BSN | Syntha-6 Whey Protein Powder,Vanilla Ice Cream,powder,1.0300,0.00079803,-2.1959
+Birthday Cake,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Birthday Cake,powder,1.3700,0.00038996,-2.7173
+Salted Caramel,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Chocolate Caramel,powder,1.3700,0.00038996,-2.5825
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Chocolate Peanut Butter,powder,1.3700,0.00038996,-2.9380
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cinnamon Bun,powder,1.3700,0.00038996,-2.9072
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cocoa Pebbles,powder,1.3700,0.00038996,-2.9380
+Cookies & Cream,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cookies and Cream,powder,1.3700,0.00038996,-2.9144
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Fruity Pebbles,powder,1.3700,0.00038996,-2.9072
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Fudge Brownie,powder,1.3700,0.00038996,-2.9380
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Gourmet Chocolate,powder,1.3700,0.00038996,-2.9380
+Vanilla,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Gourmet Vanilla,powder,1.3700,0.00038996,-2.9343
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Orange Dreamsicle,powder,1.3700,0.00038996,-2.9072
+Peanut Butter,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Peanut Butter,powder,1.3700,0.00038996,-2.2920
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Dutch Chocolate,powder,1.4300,0.00038996,-3.0666
+Vanilla,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Vanilla,powder,1.4300,0.00038996,-3.0628
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Chocolate Peanut Butter,powder,1.2100,0.00038996,-2.5949
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cocoa Pebbles,powder,1.2100,0.00038996,-2.5949
+Cookies & Cream,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cookies and Cream,powder,1.2100,0.00038996,-2.5741
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Fruity Pebbles,powder,1.2100,0.00038996,-2.5677
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Fudge Brownie,powder,1.2100,0.00038996,-2.5949
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Gourmet Chocolate,powder,1.2100,0.00038996,-2.5949
+Vanilla,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Gourmet Vanilla,powder,1.2100,0.00038996,-2.5916
+Peanut Butter,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Peanut Butter,powder,1.2100,0.00038996,-2.0244
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cocoa Pebbles,powder,1.0600,0.00038996,-2.2732
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Fruity Pebbles,powder,1.0600,0.00038996,-2.2494
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Chocolate Peanut Butter,powder,1.1100,0.00038996,-2.3804
+Birthday Cake,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Birthday Cake,powder,1.0500,0.00038996,-2.0826
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Chocolate Coconut,powder,1.0500,0.00038996,-2.2517
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cinnamon Bun,powder,1.0500,0.00038996,-2.2282
+Cookies & Cream,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Cookies and Cream,powder,1.0500,0.00038996,-2.2337
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Fudge Brownie,powder,1.0500,0.00038996,-2.2517
+Chocolate,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Gourmet Chocolate,powder,1.0500,0.00038996,-2.2517
+Vanilla,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Gourmet Vanilla,powder,1.0500,0.00038996,-2.2489
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Orange Dreamsicle,powder,1.0500,0.00038996,-2.2282
+Peanut Butter,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Peanut Butter,powder,1.0500,0.00038996,-1.7567
+Banana,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Smooth Banana,powder,1.0500,0.00038996,-2.0820
+Strawberry/Berry,Dymatize,Dymatize | ISO100 Hydrolyzed Whey Protein Isolate,Strawberry,powder,1.0500,0.00038996,-2.2344
+Chocolate,Optimum Nutrition,Optimum Nutrition | Platinum Hydrowhey,Turbo Chocolate,powder,2.0000,0.00173513,-4.2430
+Vanilla,Optimum Nutrition,Optimum Nutrition | Platinum Hydrowhey,Velocity Vanilla,powder,2.0000,0.00173513,-4.2189
+Chocolate,Optimum Nutrition,Optimum Nutrition | Platinum Hydrowhey,Turbo Chocolate,powder,1.7000,0.00173513,-3.6066
+Vanilla,Optimum Nutrition,Optimum Nutrition | Platinum Hydrowhey,Velocity Vanilla,powder,1.7000,0.00173513,-3.5861
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech Ripped Whey Protein,Chocolate Fudge Brownie,powder,1.8100,0.00103670,-3.8616
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech Ripped Whey Protein,French Vanilla Swirl,powder,1.8100,0.00103670,-3.8485
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech Ripped Whey Protein,Chocolate Fudge Brownie,powder,1.5000,0.00103670,-3.2002
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech Ripped Whey Protein,French Vanilla Swirl,powder,1.5000,0.00103670,-3.1894
+Banana,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Banana,powder,4.5000,0.00066956,-8.3800
+Chocolate,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Chocolate,powder,4.5000,0.00066956,-9.6288
+Chocolate,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Chocolate Peanut Butter,powder,4.5000,0.00066956,-9.6288
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Strawberry,powder,4.5000,0.00066956,-9.5015
+Vanilla,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Vanilla,powder,4.5000,0.00066956,-9.6078
+Banana,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Banana,powder,3.5600,0.00066956,-6.6295
+Chocolate,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Chocolate,powder,3.5600,0.00066956,-7.6174
+Chocolate,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Chocolate Peanut Butter,powder,3.5600,0.00066956,-7.6174
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Strawberry,powder,3.5600,0.00066956,-7.5167
+Vanilla,Optimum Nutrition,Optimum Nutrition | Serious Mass Weight Gainer,Vanilla,powder,3.5600,0.00066956,-7.6009
+Other,Kaged Muscle,Kaged Muscle | RE-KAGED Post-Workout,Orange Kream,powder,2.0000,0.00111398,-4.1360
+Strawberry/Berry,Kaged Muscle,Kaged Muscle | RE-KAGED Post-Workout,Strawberry Lemonade,powder,2.0000,0.00111398,-4.1701
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Double Rich Chocolate,powder,1.0600,0.00127340,-2.2572
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,French Vanilla Creme,powder,1.0600,0.00127340,-2.2478
+Strawberry/Berry,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Strawberry,powder,1.0600,0.00127340,-2.2001
+Cookies & Cream,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Cookies and Cream,powder,1.1000,0.00127340,-2.2806
+Cookies & Cream,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Cookies and Cream,powder,0.8200,0.00127340,-1.7001
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Double Rich Chocolate,powder,0.8200,0.00127340,-1.7461
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,French Vanilla Creme,powder,0.8200,0.00127340,-1.7389
+Strawberry/Berry,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Strawberry,powder,0.8200,0.00127340,-1.7020
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech 100% Whey Gold,Double Rich Chocolate,powder,0.8300,0.00127340,-1.7674
+Birthday Cake,BSN,BSN | Protein Crisp Bars,Birthday Cake Remix,bar,4.9900,0.00008411,-9.5010
+Salted Caramel,BSN,BSN | Protein Crisp Bars,Caramel Chocolate Crunch,bar,4.9900,0.00008411,-9.9873
+Chocolate,BSN,BSN | Protein Crisp Bars,Chocolate Crunch,bar,4.9900,0.00008411,-10.6549
+Cookies & Cream,BSN,BSN | Protein Crisp Bars,Cookies & Cream,bar,4.9900,0.00008411,-10.6084
+Chocolate,BSN,BSN | Protein Crisp Bars,Mint Mint Chocolate Chocolate Chip,bar,4.9900,0.00008411,-10.6549
+Peanut Butter,BSN,BSN | Protein Crisp Bars,Peanut Butter Crunch,bar,4.9900,0.00008411,-10.2599
+Other,BSN,BSN | Protein Crisp Bars,S'Mores,bar,4.9900,0.00008411,-10.5528
+Other,BSN,BSN | Protein Crisp Bars,Salted Toffee Pretzel,bar,4.9900,0.00008411,-10.5528
+Strawberry/Berry,BSN,BSN | Protein Crisp Bars,Strawberry Crunch,bar,4.9900,0.00008411,-10.1267
+Vanilla,BSN,BSN | Protein Crisp Bars,Vanilla Marshmallow,bar,4.9900,0.00008411,-6.5739
+Salted Caramel,BSN,BSN | Protein Crisp Bars,Caramel Chocolate Crunch,bar,2.0800,0.00008411,-4.1630
+Chocolate,BSN,BSN | Protein Crisp Bars,Chocolate Crunch,bar,2.0800,0.00008411,-4.4413
+Chocolate,BSN,BSN | Protein Crisp Bars,Mint Mint Chocolate Chocolate Chip,bar,2.0800,0.00008411,-4.4413
+Peanut Butter,BSN,BSN | Protein Crisp Bars,Peanut Butter Crunch,bar,2.0800,0.00008411,-4.2767
+Other,BSN,BSN | Protein Crisp Bars,S'Mores,bar,2.0800,0.00008411,-4.3987
+Other,BSN,BSN | Protein Crisp Bars,Salted Toffee Pretzel,bar,2.0800,0.00008411,-4.3987
+Strawberry/Berry,BSN,BSN | Protein Crisp Bars,Strawberry Crunch,bar,2.0800,0.00008411,-4.2212
+Vanilla,BSN,BSN | Protein Crisp Bars,Vanilla Marshmallow,bar,2.0800,0.00008411,-2.7402
+Birthday Cake,BSN,BSN | Protein Crisp Bars,Birthday Cake Remix,bar,2.0800,0.00008411,-3.9603
+Chocolate,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Chocolate Cake,bar,3.7400,0.00065468,-7.5821
+Cookies & Cream,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Chocolate Chip Cookie Dough,bar,3.7400,0.00065468,-7.3107
+Chocolate,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Chocolate Peanut Butter Cup,bar,3.7400,0.00065468,-7.5821
+Other,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Cinnamon Twist,bar,3.7400,0.00065468,-6.9861
+Cookies & Cream,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Cookies 'N' Cream,bar,3.7400,0.00065468,-7.3107
+Chocolate,MusclePharm,MusclePharm | Combat Crunch Protein Bar,White Chocolate Raspberry,bar,3.7400,0.00065468,-7.5821
+Chocolate,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Chocolate Cake,bar,1.6900,0.00065468,-3.4261
+Cookies & Cream,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Chocolate Chip Cookie Dough,bar,1.6900,0.00065468,-3.3035
+Chocolate,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Chocolate Peanut Butter Cup,bar,1.6900,0.00065468,-3.4261
+Other,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Cinnamon Twist,bar,1.6900,0.00065468,-3.1568
+Cookies & Cream,MusclePharm,MusclePharm | Combat Crunch Protein Bar,Cookies 'N' Cream,bar,1.6900,0.00065468,-3.3035
+Chocolate,MusclePharm,MusclePharm | Combat Crunch Protein Bar,White Chocolate Raspberry,bar,1.6900,0.00065468,-3.4261
+Chocolate,Kaged Muscle,Kaged Muscle | MICROPURE Whey Protein Isolate,Chocolate,powder,1.0700,0.00038882,-2.2946
+Mocha / Coffee,Kaged Muscle,Kaged Muscle | MICROPURE Whey Protein Isolate,Coffee Latte,powder,1.0700,0.00038882,-2.2210
+Vanilla,Kaged Muscle,Kaged Muscle | MICROPURE Whey Protein Isolate,Vanilla,powder,1.0700,0.00038882,-2.2918
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Banana Cream,powder,2.1400,0.00019370,-4.5935
+Cookies & Cream,Isopure,Isopure | Isopure Zero Carb WPI,Cookies & Cream,powder,2.1400,0.00019370,-4.5782
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Creamy Vanilla,powder,2.1400,0.00019370,-4.5935
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Strawberries & Cream,powder,2.1400,0.00019370,-4.5935
+Other,Isopure,Isopure | Isopure Zero Carb WPI,Alpine Punch,powder,1.7000,0.00019370,-3.6324
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Banana Cream,powder,1.7000,0.00019370,-3.6491
+Cookies & Cream,Isopure,Isopure | Isopure Zero Carb WPI,Cookies & Cream,powder,1.7000,0.00019370,-3.6369
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Creamy Vanilla,powder,1.7000,0.00019370,-3.6491
+Chocolate,Isopure,Isopure | Isopure Zero Carb WPI,Low Carb Dutch Chocolate,powder,1.7000,0.00019370,-3.6514
+Other,Isopure,Isopure | Isopure Zero Carb WPI,Low Carb Toasted Coconut,powder,1.7000,0.00019370,-3.6324
+Other,Isopure,Isopure | Isopure Zero Carb WPI,Mango Peach,powder,1.7000,0.00019370,-3.6324
+Chocolate,Isopure,Isopure | Isopure Zero Carb WPI,Mint Chocolate Chip,powder,1.7000,0.00019370,-3.6514
+Banana,Isopure,Isopure | Isopure Zero Carb WPI,Pineapple Orange Banana,powder,1.7000,0.00019370,-3.5149
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Strawberries & Cream,powder,1.7000,0.00019370,-3.6491
+Salted Caramel,Isopure,Isopure | Isopure Zero Carb WPI,Vanilla Salted Caramel,powder,1.7000,0.00019370,-3.4322
+Cookies & Cream,Isopure,Isopure | Isopure Zero Carb WPI,Cookies & Cream,powder,1.5300,0.00019370,-3.2732
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Creamy Vanilla,powder,1.5300,0.00019370,-3.2842
+Chocolate,Isopure,Isopure | Isopure Zero Carb WPI,Low Carb Dutch Chocolate,powder,1.5300,0.00019370,-3.2862
+Vanilla,Isopure,Isopure | Isopure Zero Carb WPI,Strawberries & Cream,powder,1.5300,0.00019370,-3.2842
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Isolate,Chocolate,powder,0.9100,0.00003645,-1.9570
+Vanilla,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Isolate,Vanilla,powder,0.9100,0.00003645,-1.9568
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Isolate,Chocolate,powder,0.7400,0.00003645,-1.5914
+Vanilla,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature 100% Whey Isolate,Vanilla,powder,0.7400,0.00003645,-1.5912
+Chocolate,Xtend,Xtend | Pro Whey Protein Isolate,Chocolate Lava Cake,powder,1.2200,0.00005687,-2.6232
+Cookies & Cream,Xtend,Xtend | Pro Whey Protein Isolate,Cookie Butter,powder,1.2200,0.00005687,-2.6202
+Salted Caramel,Xtend,Xtend | Pro Whey Protein Isolate,Salted Caramel Shake,powder,1.2200,0.00005687,-2.5771
+Vanilla,Xtend,Xtend | Pro Whey Protein Isolate,Vanilla Ice Cream,powder,1.2200,0.00005687,-2.6228
+Chocolate,Xtend,Xtend | Pro Whey Protein Isolate,Chocolate Lava Cake,powder,0.7800,0.00005687,-1.6772
+Cookies & Cream,Xtend,Xtend | Pro Whey Protein Isolate,Cookie Butter,powder,0.7800,0.00005687,-1.6752
+Salted Caramel,Xtend,Xtend | Pro Whey Protein Isolate,Salted Caramel Shake,powder,0.7800,0.00005687,-1.6476
+Vanilla,Xtend,Xtend | Pro Whey Protein Isolate,Vanilla Ice Cream,powder,0.7800,0.00005687,-1.6768
+Chocolate,Beverly International,Beverly International | UMP - Ultimate Muscle Protein,Chocolate,powder,1.2500,0.00020899,-2.6845
+Cookies & Cream,Beverly International,Beverly International | UMP - Ultimate Muscle Protein,Cookies & Cream,powder,1.2500,0.00020899,-2.6730
+Other,Beverly International,Beverly International | UMP - Ultimate Muscle Protein,Graham Cracker,powder,1.2500,0.00020899,-2.6695
+Other,Beverly International,Beverly International | UMP - Ultimate Muscle Protein,Rocky Road,powder,1.2500,0.00020899,-2.6695
+Strawberry/Berry,Beverly International,Beverly International | UMP - Ultimate Muscle Protein,Strawberry,powder,1.2500,0.00020899,-2.6735
+Vanilla,Beverly International,Beverly International | UMP - Ultimate Muscle Protein,Vanilla,powder,1.2500,0.00020899,-2.6827
+Birthday Cake,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Birthday Cake,powder,1.3700,0.00001166,-2.9402
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Chocolate Bliss,powder,1.3700,0.00001166,-2.9468
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Rich Vanilla,powder,1.3700,0.00001166,-2.9467
+Birthday Cake,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Birthday Cake,powder,1.2000,0.00001166,-2.5754
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Chocolate Bliss,powder,1.2000,0.00001166,-2.5812
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Rich Vanilla,powder,1.2000,0.00001166,-2.5811
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Strawberry Cream,powder,1.2000,0.00001166,-2.5811
+Birthday Cake,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Birthday Cake,powder,1.6700,0.00001166,-3.5841
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Chocolate Bliss,powder,1.6700,0.00001166,-3.5921
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Rich Vanilla,powder,1.6700,0.00001166,-3.5920
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Isolate,Strawberry Cream,powder,1.6700,0.00001166,-3.5920
+Chocolate,BSN,BSN | Syntha-6 Protein Isolate,Chocolate Milkshake,powder,1.6100,0.00067583,-3.4448
+Strawberry/Berry,BSN,BSN | Syntha-6 Protein Isolate,Strawberry Milkshake,powder,1.6100,0.00067583,-3.3988
+Vanilla,BSN,BSN | Syntha-6 Protein Isolate,Vanilla Ice Cream,powder,1.6100,0.00067583,-3.4372
+Chocolate,BSN,BSN | Syntha-6 Protein Isolate,Chocolate Milkshake,powder,1.1200,0.00067583,-2.3964
+Chocolate,BSN,BSN | Syntha-6 Protein Isolate,Chocolate Peanut Butter,powder,1.1200,0.00067583,-2.3964
+Cookies & Cream,BSN,BSN | Syntha-6 Protein Isolate,Peanut Butter Cookie,powder,1.1200,0.00067583,-2.3630
+Strawberry/Berry,BSN,BSN | Syntha-6 Protein Isolate,Strawberry Milkshake,powder,1.1200,0.00067583,-2.3644
+Vanilla,BSN,BSN | Syntha-6 Protein Isolate,Vanilla Ice Cream,powder,1.1200,0.00067583,-2.3911
+Strawberry/Berry,Quest Nutrition,Quest Nutrition | Quest Bars,Blueberry Muffin,bar,4.9900,0.00033772,-8.2947
+Cookies & Cream,Quest Nutrition,Quest Nutrition | Quest Bars,Chocolate Chip Cookie Dough,bar,4.9900,0.00033772,-10.2287
+Cookies & Cream,Quest Nutrition,Quest Nutrition | Quest Bars,Cookies and Cream,bar,4.9900,0.00033772,-10.2287
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Chocolate Hazelnut,bar,2.0800,0.00033772,-4.3415
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Peanut Butter Brownie Smash,bar,2.0800,0.00033772,-4.3415
+Birthday Cake,Quest Nutrition,Quest Nutrition | Quest Bars,Birthday Cake,bar,2.5000,0.00033772,-2.8968
+Strawberry/Berry,Quest Nutrition,Quest Nutrition | Quest Bars,Blueberry Muffin,bar,2.5000,0.00033772,-4.1556
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Chocolate Brownie,bar,2.5000,0.00033772,-5.2182
+Cookies & Cream,Quest Nutrition,Quest Nutrition | Quest Bars,Chocolate Chip Cookie Dough,bar,2.5000,0.00033772,-5.1246
+Cookies & Cream,Quest Nutrition,Quest Nutrition | Quest Bars,Cookies & Cream,bar,2.5000,0.00033772,-5.1246
+Other,Quest Nutrition,Quest Nutrition | Quest Bars,Maple Waffle,bar,2.5000,0.00033772,-5.0127
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Mint Chocolate Chunk,bar,2.5000,0.00033772,-5.2182
+Mocha / Coffee,Quest Nutrition,Quest Nutrition | Quest Bars,Mocha Chocolate Chip,bar,2.5000,0.00033772,-1.0631
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Oatmeal Chocolate Chip,bar,2.5000,0.00033772,-5.2182
+Other,Quest Nutrition,Quest Nutrition | Quest Bars,Rocky Road,bar,2.5000,0.00033772,-5.0127
+Other,Quest Nutrition,Quest Nutrition | Quest Bars,S'Mores,bar,2.5000,0.00033772,-5.0127
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,White Chocolate Raspberry,bar,2.5000,0.00033772,-5.2182
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Chocolate Peanut Butter,bar,2.3600,0.00033772,-4.9260
+Other,Quest Nutrition,Quest Nutrition | Quest Bars,Cinnamon Roll,bar,2.3600,0.00033772,-4.7320
+Chocolate,Quest Nutrition,Quest Nutrition | Quest Bars,Double Chocolate Chunk,bar,2.3600,0.00033772,-4.9260
+Strawberry/Berry,Quest Nutrition,Quest Nutrition | Quest Bars,Strawberry Cheesecake,bar,2.3600,0.00033772,-3.9229
+Other,Isopure,Isopure | Isopure Infusions WPI,Citrus Lemonade,powder,1.3600,0.00001866,-2.9237
+Other,Isopure,Isopure | Isopure Infusions WPI,Mango Lime,powder,1.3600,0.00001866,-2.9237
+Strawberry/Berry,Isopure,Isopure | Isopure Infusions WPI,Mixed Berry,powder,1.3600,0.00001866,-2.9241
+Banana,Isopure,Isopure | Isopure Infusions WPI,Pineapple Orange Banana,powder,1.3600,0.00001866,-2.9146
+Other,Isopure,Isopure | Isopure Infusions WPI,Tropical Punch,powder,1.3600,0.00001866,-2.9237
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Mass Gainer,Chocolate,powder,2.5200,0.00005249,-5.4187
+Vanilla,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Mass Gainer,Vanilla,powder,2.5200,0.00005249,-5.4178
+Chocolate,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein Isolate,Chocolate Peanut Butter,powder,1.4300,0.00026148,-3.0698
+Chocolate,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein Isolate,Double Rich Chocolate,powder,1.4300,0.00026148,-3.0698
+Vanilla,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein Isolate,Vanilla Ice Cream,powder,1.4300,0.00026148,-3.0672
+Cookies & Cream,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein Isolate,Cookies & Cream,powder,1.0600,0.00026148,-2.2633
+Chocolate,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein Isolate,Double Rich Chocolate,powder,1.0600,0.00026148,-2.2755
+Vanilla,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein Isolate,Vanilla Ice Cream,powder,1.0600,0.00026148,-2.2736
+Other,JYM Supplement Science,JYM Supplement Science | Mass JYM Mass Gainer Protein Powder,Apple Fritter,powder,2.0600,0.00007582,-4.4198
+Chocolate,JYM Supplement Science,JYM Supplement Science | Mass JYM Mass Gainer Protein Powder,Chocolate Mousse,powder,2.0600,0.00007582,-4.4287
+Vanilla,JYM Supplement Science,JYM Supplement Science | Mass JYM Mass Gainer Protein Powder,Tahitian Vanilla Bean,powder,2.0600,0.00007582,-4.4277
+Vanilla,Optimum Nutrition,Optimum Nutrition | PRO Complex Protein 3.3 Lbs. Creamy Vanilla,Creamy Vanilla,powder,1.6500,0.00278204,-3.4391
+Chocolate,VADE Nutrition,VADE Nutrition | 100% Whey Isolate Dissolvable Protein Scoops,Chocolate/Vanilla Combo,powder,1.5000,0.00004277,-3.2257
+Chocolate,VADE Nutrition,VADE Nutrition | 100% Whey Isolate Dissolvable Protein Scoops,Chocolate,powder,1.4300,0.00004277,-3.0751
+Vanilla,VADE Nutrition,VADE Nutrition | 100% Whey Isolate Dissolvable Protein Scoops,Vanilla,powder,1.4300,0.00004277,-3.0747
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Clear WPI Protein,Cherry Watermelon,powder,1.6000,0.00002139,-3.4393
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Clear WPI Protein,Mango,powder,1.6000,0.00002139,-3.4393
+Other,Dymatize,Dymatize | ISO100 Hydrolyzed Clear WPI Protein,Pineapple Orange,powder,1.6000,0.00002139,-3.4393
+Other,MuscleTech,MuscleTech | Iso Whey Clear,Arctic Cherry Blast,powder,1.5800,0.00005055,-3.3929
+Strawberry/Berry,MuscleTech,MuscleTech | Iso Whey Clear,Lemon Berry Blizzard,powder,1.5800,0.00005055,-3.3941
+Other,MuscleTech,MuscleTech | Iso Whey Clear,Orange Dreamsicle,powder,1.5800,0.00005055,-3.3929
+Chocolate,NutraBio,NutraBio | 100% Whey Protein Isolate,Chocolate Peanut Butter Bliss,powder,1.3800,0.00002216,-2.9681
+Other,NutraBio,NutraBio | 100% Whey Protein Isolate,Cinnamon Sugar Donut,powder,1.3800,0.00002216,-2.9663
+Chocolate,NutraBio,NutraBio | 100% Whey Protein Isolate,Dutch Chocolate,powder,1.3800,0.00002216,-2.9681
+Cookies & Cream,NutraBio,NutraBio | 100% Whey Protein Isolate,Ice Cream Cookie Dream,powder,1.3800,0.00002216,-2.9667
+Other,NutraBio,NutraBio | 100% Whey Protein Isolate,Pancakes & Maple Syrup,powder,1.3800,0.00002216,-2.9663
+Vanilla,NutraBio,NutraBio | 100% Whey Protein Isolate,Strawberry Ice Cream,powder,1.3800,0.00002216,-2.9679
+Vanilla,NutraBio,NutraBio | 100% Whey Protein Isolate,Vanilla,powder,1.3800,0.00002216,-2.9679
+Vanilla,NutraBio,NutraBio | 100% Whey Protein Isolate,Alpine Vanilla,powder,1.0500,0.00002216,-2.2582
+Other,NutraBio,NutraBio | 100% Whey Protein Isolate,Cinnamon Sugar Donut,powder,1.0500,0.00002216,-2.2570
+Chocolate,NutraBio,NutraBio | 100% Whey Protein Isolate,Dutch Chocolate,powder,1.0500,0.00002216,-2.2583
+Mocha / Coffee,Isopure,Isopure | Isopure With Coffee,Espresso,powder,1.8700,0.00005249,-4.0036
+Mocha / Coffee,Isopure,Isopure | Isopure With Coffee,Colombian Coffee,powder,1.9400,0.00005249,-4.1535
+Chocolate,Animal,Animal | Animal Whey,Chocolate Chocolate Chip,powder,1.3000,0.00012644,-2.7937
+Other,Animal,Animal | Animal Whey,Glazed Donut,powder,1.3000,0.00012644,-2.7843
+Mocha / Coffee,Animal,Animal | Animal Whey,Mocha Cappuccino,powder,1.3000,0.00012644,-2.7646
+Vanilla,Animal,Animal | Animal Whey,Vanilla Naturally Flavored,powder,1.3000,0.00012644,-2.7926
+Vanilla,Animal,Animal | Animal Whey,Banana Cream,powder,1.2900,0.00012644,-2.7711
+Chocolate,Animal,Animal | Animal Whey,Brownie Batter,powder,1.2900,0.00012644,-2.7722
+Chocolate,Animal,Animal | Animal Whey,Chocolate,powder,1.2900,0.00012644,-2.7722
+Chocolate,Animal,Animal | Animal Whey,Chocolate Coconut,powder,1.2900,0.00012644,-2.7722
+Cookies & Cream,Animal,Animal | Animal Whey,Cookies & Cream,powder,1.2900,0.00012644,-2.7650
+Other,Animal,Animal | Animal Whey,Frosted Cinnamon Bun,powder,1.2900,0.00012644,-2.7628
+Strawberry/Berry,Animal,Animal | Animal Whey,Strawberry,powder,1.2900,0.00012644,-2.7653
+Vanilla,Animal,Animal | Animal Whey,Vanilla,powder,1.2900,0.00012644,-2.7711
+Vanilla,Animal,Animal | Animal Whey,Banana Cream,powder,1.0400,0.00012644,-2.2341
+Chocolate,Animal,Animal | Animal Whey,Brownie Batter,powder,1.0400,0.00012644,-2.2350
+Chocolate,Animal,Animal | Animal Whey,Chocolate,powder,1.0400,0.00012644,-2.2350
+Chocolate,Animal,Animal | Animal Whey,Chocolate Chocolate Chip,powder,1.0400,0.00012644,-2.2350
+Chocolate,Animal,Animal | Animal Whey,Chocolate Coconut,powder,1.0400,0.00012644,-2.2350
+Chocolate,Animal,Animal | Animal Whey,Chocolate Mint,powder,1.0400,0.00012644,-2.2350
+Cookies & Cream,Animal,Animal | Animal Whey,Cookies & Cream,powder,1.0400,0.00012644,-2.2292
+Other,Animal,Animal | Animal Whey,Frosted Cinnamon Bun,powder,1.0400,0.00012644,-2.2274
+Other,Animal,Animal | Animal Whey,Glazed Donut,powder,1.0400,0.00012644,-2.2274
+Mocha / Coffee,Animal,Animal | Animal Whey,Mocha Cappuccino,powder,1.0400,0.00012644,-2.2117
+Strawberry/Berry,Animal,Animal | Animal Whey,Strawberry,powder,1.0400,0.00012644,-2.2294
+Vanilla,Animal,Animal | Animal Whey,Vanilla,powder,1.0400,0.00012644,-2.2341
+Chocolate,Animal,Animal | Animal Whey,Chocolate,powder,2.5000,0.00012644,-5.3725
+Chocolate,Animal,Animal | Animal Whey,Chocolate,powder,0.9900,0.00012644,-2.1275
+Cookies & Cream,Animal,Animal | Animal Whey,Cookies & Cream,powder,0.9900,0.00012644,-2.1220
+Vanilla,Animal,Animal | Animal Whey,Vanilla,powder,0.9900,0.00012644,-2.1266
+Chocolate,Isopure,Isopure | Isopure Original,Dutch Chocolate,powder,1.7400,0.00018955,-3.7374
+Vanilla,Isopure,Isopure | Isopure Original,Vanilla,powder,1.7400,0.00018955,-3.7351
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate,powder,1.5400,0.00016208,-3.3085
+Banana,Allmax Nutrition,Allmax Nutrition | IsoFlex,Banana,powder,1.1700,0.00016208,-2.4350
+Birthday Cake,Allmax Nutrition,Allmax Nutrition | IsoFlex,Birthday Cake,powder,1.1700,0.00016208,-2.4353
+Salted Caramel,Allmax Nutrition,Allmax Nutrition | IsoFlex,Caramel Macchiato,powder,1.1700,0.00016208,-2.3874
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate,powder,1.1700,0.00016208,-2.5136
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate Mint,powder,1.1700,0.00016208,-2.5136
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate Peanut Butter,powder,1.1700,0.00016208,-2.5136
+Cookies & Cream,Allmax Nutrition,Allmax Nutrition | IsoFlex,Cookies & Cream,powder,1.1700,0.00016208,-2.5053
+Other,Allmax Nutrition,Allmax Nutrition | IsoFlex,Orange Dreamsicle,powder,1.1700,0.00016208,-2.5027
+Other,Allmax Nutrition,Allmax Nutrition | IsoFlex,Pineapple Coconut,powder,1.1700,0.00016208,-2.5027
+Strawberry/Berry,Allmax Nutrition,Allmax Nutrition | IsoFlex,Strawberry,powder,1.1700,0.00016208,-2.5056
+Vanilla,Allmax Nutrition,Allmax Nutrition | IsoFlex,Vanilla,powder,1.1700,0.00016208,-2.5123
+Banana,Allmax Nutrition,Allmax Nutrition | IsoFlex,Banana,powder,0.9500,0.00016208,-1.9772
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate,powder,0.9500,0.00016208,-2.0410
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate Mint,powder,0.9500,0.00016208,-2.0410
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoFlex,Chocolate Peanut Butter,powder,0.9500,0.00016208,-2.0410
+Cookies & Cream,Allmax Nutrition,Allmax Nutrition | IsoFlex,Cookies & Cream,powder,0.9500,0.00016208,-2.0342
+Strawberry/Berry,Allmax Nutrition,Allmax Nutrition | IsoFlex,Strawberry,powder,0.9500,0.00016208,-2.0345
+Vanilla,Allmax Nutrition,Allmax Nutrition | IsoFlex,Vanilla,powder,0.9500,0.00016208,-2.0399
+Chocolate,MuscleTech,MuscleTech | Premium Gold Whey Protein,Double Rich Chocolate,powder,0.9300,0.00272955,-1.9572
+Vanilla,MuscleTech,MuscleTech | Premium Gold Whey Protein,Vanilla Ice Cream,powder,0.9300,0.00272955,-1.9396
+Vanilla,Isopure,Isopure | Natural Isopure 3 Lbs. Natural Vanilla,Natural Vanilla,powder,2.1800,0.00018080,-4.6801
+Mocha / Coffee,Ascent,Ascent | Native Fuel Whey Protein,Cappuccino,powder,1.4000,0.00002430,-3.0050
+Chocolate,Ascent,Ascent | Native Fuel Whey Protein,Chocolate,powder,1.4000,0.00002430,-3.0111
+Other,Ascent,Ascent | Native Fuel Whey Protein,Lemon Sorbet,powder,1.4000,0.00002430,-3.0091
+Unflavored,Ascent,Ascent | Native Fuel Whey Protein,Unflavored,powder,1.4000,0.00002430,-2.9900
+Vanilla,Ascent,Ascent | Native Fuel Whey Protein,Vanilla Bean,powder,1.4000,0.00002430,-3.0108
+Chocolate,Ascent,Ascent | Native Fuel Whey Protein,Chocolate,powder,1.2100,0.00002430,-2.6024
+Vanilla,NOW,NOW | Whey Protein Isolate,Creamy Vanilla,powder,1.3800,0.00016258,-2.9632
+Chocolate,NOW,NOW | Whey Protein Isolate,Creamy Chocolate,powder,1.6000,0.00016258,-3.4374
+Chocolate,NOW,NOW | Whey Protein Isolate,Creamy Chocolate,powder,1.1000,0.00016258,-2.3632
+Vanilla,NOW,NOW | Whey Protein Isolate,Creamy Vanilla,powder,1.1000,0.00016258,-2.3620
+Unflavored,NOW,NOW | Whey Protein Isolate,Natural Unflavored,powder,1.1000,0.00016258,-2.2528
+Vanilla,NOW,NOW | Whey Protein Isolate,Creamy Vanilla,powder,0.9200,0.00016258,-1.9755
+Chocolate,NOW,NOW | Whey Protein Isolate,Dutch Chocolate,powder,0.9200,0.00016258,-1.9765
+Unflavored,NOW,NOW | Whey Protein Isolate,Natural Unflavored,powder,0.9200,0.00016258,-1.8841
+Chocolate,MusclePharm,MusclePharm | Combat 100% Isolate,Chocolate Milk,powder,0.7100,0.00027121,-1.5240
+Vanilla,MusclePharm,MusclePharm | Combat 100% Isolate,Vanilla,powder,0.7100,0.00027121,-1.5227
+Other,Isopure,Isopure | Cocotein 12 - 16 Fl. Oz. Glass Bottles Original Flavor,Original Flavor,powder,4.4200,0.00006999,-9.4851
+Banana,Alpha Lion,Alpha Lion | Goatein Whey Protein Isolate,Bulging Banana,powder,1.9200,0.00000778,-4.1238
+Chocolate,Alpha Lion,Alpha Lion | Goatein Whey Protein Isolate,Chiseled Chocolate,powder,1.9200,0.00000778,-4.1300
+Vanilla,Alpha Lion,Alpha Lion | Goatein Whey Protein Isolate,Vein Poppin Vanilla,powder,1.9200,0.00000778,-4.1299
+Chocolate,RIVALUS,RIVALUS | Native Pro 100,Pure Chocolate,powder,1.2600,0.00002916,-2.7098
+Vanilla,RIVALUS,RIVALUS | Native Pro 100,True Vanilla,powder,1.2600,0.00002916,-2.7096
+Cookies & Cream,FINAFLEX,FINAFLEX | Clear Protein,Peanut Butter Cookie,powder,0.7200,0.00004958,-1.5467
+Chocolate,FINAFLEX,FINAFLEX | Clear Protein,Double Chocolate Brownie,powder,0.7600,0.00004958,-1.6342
+Other,FINAFLEX,FINAFLEX | Clear Protein,Frosted Cinnamon Churro,powder,0.7600,0.00004958,-1.6321
+Salted Caramel,FINAFLEX,FINAFLEX | Clear Protein,Vanilla Caramel Ice Cream,powder,0.7600,0.00004958,-1.6092
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech Whey Protein Isolate,Milk Chocolate,powder,1.1400,0.00006707,-2.4510
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech Whey Protein Isolate,Vanilla,powder,1.1400,0.00006707,-2.4505
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech Whey Protein Isolate,Milk Chocolate,powder,0.9700,0.00006707,-2.0855
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech Whey Protein Isolate,Vanilla,powder,0.9700,0.00006707,-2.0851
+Chocolate,REDCON1,REDCON1 | Isotope Whey Protein Isolate,Mint Chocolate Ice Cream,powder,1.5000,0.00003499,-3.2259
+Chocolate,REDCON1,REDCON1 | Isotope Whey Protein Isolate,Peanut Butter Chocolate,powder,1.5000,0.00003499,-3.2259
+Other,ABB,ABB | Maxx Recovery 12/18 Fl. Oz. Bottles Fruit Punch,Fruit Punch,powder,4.4300,0.00012248,-9.4892
+Salted Caramel,Quest Nutrition,Quest Nutrition | Hero Bar,Chocolate Caramel Pecan,bar,2.5000,0.00001750,-5.3001
+Strawberry/Berry,Quest Nutrition,Quest Nutrition | Hero Bar,Blueberry Cobbler,bar,3.3600,0.00001750,-7.1428
+Salted Caramel,Quest Nutrition,Quest Nutrition | Hero Bar,Vanilla Caramel,bar,3.3600,0.00001750,-7.1233
+Chocolate,RIVALUS,RIVALUS | Rival Whey,Chocolate Peanut Butter,powder,0.8300,0.00002916,-1.7851
+Chocolate,RIVALUS,RIVALUS | Rival Whey,Rich Chocolate,powder,0.8300,0.00002916,-1.7851
+Vanilla,RIVALUS,RIVALUS | Rival Whey,Soft-Serve Vanilla,powder,0.8300,0.00002916,-1.7849
+Chocolate,RIVALUS,RIVALUS | Rival Whey,Rich Chocolate,powder,0.6200,0.00002916,-1.3334
+Vanilla,RIVALUS,RIVALUS | Rival Whey,Soft-Serve Vanilla,powder,0.6200,0.00002916,-1.3333
+Salted Caramel,Primeval Labs,Primeval Labs | Isolit,Caramel Latte,powder,1.4300,0.00000467,-3.0716
+Chocolate,Primeval Labs,Primeval Labs | Isolit,Chocolate Milk,powder,1.4300,0.00000467,-3.0761
+Chocolate,Primeval Labs,Primeval Labs | Isolit,Cocoa Mint Chip,powder,1.4300,0.00000467,-3.0761
+Vanilla,Primeval Labs,Primeval Labs | Isolit,Diner Vanilla,powder,1.4300,0.00000467,-3.0760
+Other,Primeval Labs,Primeval Labs | Isolit,Orange Creamsicle,powder,1.4300,0.00000467,-3.0757
+Other,REDCON1,REDCON1 | B.A.R.,Choco Crisps,powder,2.9200,0.00000583,-6.2801
+Other,REDCON1,REDCON1 | B.A.R.,Krunchy Kernel,powder,2.9200,0.00000583,-6.2801
+Peanut Butter,REDCON1,REDCON1 | B.A.R.,Peanut Butter Puff,powder,2.9200,0.00000583,-6.2605
+Other,REDCON1,REDCON1 | B.A.R.,Apple Blast,powder,2.9200,0.00000583,-6.2801
+Chocolate,Optimum Nutrition,Optimum Nutrition | Isolate WPI,Chocolate Milkshake,powder,1.5200,0.00000875,-3.2696
+Vanilla,Optimum Nutrition,Optimum Nutrition | Isolate WPI,Vanilla Softserve,powder,1.5200,0.00000875,-3.2695
+Chocolate,Optimum Nutrition,Optimum Nutrition | Isolate WPI,Chocolate Shake,powder,1.3600,0.00000875,-2.9254
+Vanilla,Optimum Nutrition,Optimum Nutrition | Isolate WPI,Vanilla Softserve,powder,1.3200,0.00000875,-2.8393
+Other,Isopure,Isopure | Isopure Natural RTD 12 - 16 FL. Oz. Bottles Grape Frost,Grape Frost,powder,4.0700,0.00000583,-8.7535
+Salted Caramel,FINAFLEX,FINAFLEX | 100% Keto Food 14 Servings Vanilla Caramel,Vanilla Caramel,powder,1.9300,0.00000583,-4.1441
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoNatural,Chocolate,powder,1.3000,0.00009565,-2.7944
+Vanilla,Allmax Nutrition,Allmax Nutrition | IsoNatural,Vanilla,powder,1.3800,0.00009565,-2.9654
+Chocolate,Allmax Nutrition,Allmax Nutrition | IsoNatural,Chocolate,powder,0.9900,0.00009565,-2.1280
+Other,Allmax Nutrition,Allmax Nutrition | IsoNatural,Natural,powder,0.9900,0.00009565,-2.1226
+Vanilla,Allmax Nutrition,Allmax Nutrition | IsoNatural,Vanilla,powder,0.9900,0.00009565,-2.1274
+Vanilla,MHP,MHP | Maximum Whey Protein Complex,Vanilla Ice Cream,powder,1.3300,0.00002333,-2.8603
+Cookies & Cream,MHP,MHP | Maximum Whey Protein Complex,Cookies & Cream,powder,0.8700,0.00002333,-1.8703
+Chocolate,MHP,MHP | Maximum Whey Protein Complex,Milk Chocolate,powder,0.8700,0.00002333,-1.8712
+Vanilla,MHP,MHP | Maximum Whey Protein Complex,Vanilla Ice Cream,powder,0.8700,0.00002333,-1.8710
+Chocolate,MUTANT,MUTANT | Iso Surge,Chocolate Cheesecake,powder,1.5800,0.00002378,-3.3982
+Vanilla,MUTANT,MUTANT | Iso Surge,Coconut Cream,powder,1.5800,0.00002378,-3.3979
+Cookies & Cream,MUTANT,MUTANT | Iso Surge,Cookies N Cream,powder,1.5800,0.00002378,-3.3966
+Chocolate,MUTANT,MUTANT | Iso Surge,Mint Chocolate Chip,powder,1.5800,0.00002378,-3.3982
+Chocolate,MUTANT,MUTANT | Iso Surge,Peanut Butter Chocolate,powder,1.5800,0.00002378,-3.3982
+Strawberry/Berry,MUTANT,MUTANT | Iso Surge,Strawberry Milkshake,powder,1.5800,0.00002378,-3.3966
+Chocolate,MUTANT,MUTANT | Iso Surge,Triple Chocolate,powder,1.5800,0.00002378,-3.3982
+Vanilla,MUTANT,MUTANT | Iso Surge,Vanilla Ice Cream,powder,1.5800,0.00002378,-3.3979
+Vanilla,MUTANT,MUTANT | Iso Surge,Banana Cream,powder,1.2400,0.00002378,-2.6667
+Cookies & Cream,MUTANT,MUTANT | Iso Surge,Cookies N Cream,powder,1.2400,0.00002378,-2.6656
+Chocolate,MUTANT,MUTANT | Iso Surge,Mint Chocolate Chip,powder,1.2400,0.00002378,-2.6669
+Chocolate,MUTANT,MUTANT | Iso Surge,Peanut Butter Chocolate,powder,1.2400,0.00002378,-2.6669
+Vanilla,MUTANT,MUTANT | Iso Surge,Vanilla Ice Cream,powder,1.2400,0.00002378,-2.6667
+Other,CTD Sports,CTD Sports | Isolicious,Fruity Cereal Crunch,powder,1.1900,0.00006027,-2.5545
+Other,CTD Sports,CTD Sports | Isolicious,Coco Cereal,powder,1.1200,0.00006027,-2.4043
+Other,CTD Sports,CTD Sports | Isolicious,Fruity Cereal,powder,1.1200,0.00006027,-2.4043
+Cookies & Cream,Universal Nutrition,Universal Nutrition | Ultra Iso Whey,Cookies & Cream,powder,1.0200,0.00004083,-2.1916
+Chocolate,Universal Nutrition,Universal Nutrition | Ultra Iso Whey,Chocolate Shake,powder,0.8900,0.00004083,-1.9139
+Strawberry/Berry,Universal Nutrition,Universal Nutrition | Ultra Iso Whey,Strawberry Shake,powder,0.8900,0.00004083,-1.9124
+Vanilla,Universal Nutrition,Universal Nutrition | Ultra Iso Whey,Vanilla Shake,powder,0.8900,0.00004083,-1.9137
+Chocolate,Core Nutritionals,Core Nutritionals | Core PWO,Chocolate,powder,2.4700,0.00001361,-5.3128
+Peanut Butter,Core Nutritionals,Core Nutritionals | Core PWO,Peanut Butter Toffee,powder,2.6300,0.00001361,-5.6137
+Chocolate,Core Nutritionals,Core Nutritionals | Core PWO,Chocolate Brownie Batter,powder,3.0700,0.00001361,-6.6034
+Chocolate,Body Fortress,Body Fortress | Super Advanced Whey Protein,Chocolate,powder,2.1100,0.00086319,-4.5078
+Chocolate,Body Fortress,Body Fortress | Super Advanced Whey Protein,Chocolate Peanut Butter,powder,2.1100,0.00086319,-4.5078
+Vanilla,Body Fortress,Body Fortress | Super Advanced Whey Protein,Vanilla,powder,2.1100,0.00086319,-4.4952
+Chocolate,Quest Nutrition,Quest Nutrition | Protein Powder,Chocolate Milkshake,powder,1.0000,0.00017886,-2.1481
+Peanut Butter,Quest Nutrition,Quest Nutrition | Protein Powder,Peanut Butter,powder,1.0000,0.00017886,-1.9319
+Vanilla,Quest Nutrition,Quest Nutrition | Protein Powder,Vanilla Milkshake,powder,1.0000,0.00017886,-2.1469
+Chocolate,Six Star Pro Nutrition,Six Star Pro Nutrition | Whey Isolate 1.5 Lbs. Decadent Chocolate,Decadent Chocolate,powder,1.8300,0.00614148,-3.7446
+Peanut Butter,Core Nutritionals,Core Nutritionals | Core ISO,Peanut Butter Toffee,powder,1.6900,0.00002333,-3.5871
+Chocolate,Core Nutritionals,Core Nutritionals | Core ISO,Chocolate Decadence,powder,1.7100,0.00002333,-3.6778
+Vanilla,Core Nutritionals,Core Nutritionals | Core ISO,Vanilla Cake,powder,1.7100,0.00002333,-3.6775
+Chocolate,MFIT Supps,MFIT Supps | Iso Whey Protein Powder,Chocolate,powder,1.4500,0.00000292,-3.1191
+Vanilla,MFIT Supps,MFIT Supps | Iso Whey Protein Powder,Vanilla,powder,1.4500,0.00000292,-3.1191
+Chocolate,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein,Double Rich Chocolate,powder,0.8700,0.00037036,-1.8660
+Vanilla,Evlution Nutrition,Evlution Nutrition | 100% Whey Protein,Vanilla Ice Cream,powder,0.8700,0.00037036,-1.8638
+Chocolate,Body Nutrition,Body Nutrition | ISO-ology 4 Lb. Chocolate Peanut Butter Cup,Chocolate Peanut Butter Cup,powder,1.5700,0.00001750,-3.3769
+Chocolate,iForce Nutrition,iForce Nutrition | Isotean 5 Lbs. Milk Chocolate,Milk Chocolate,powder,1.3800,0.00003499,-2.9678
+Chocolate,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Casein,Chocolate,powder,0.7300,0.00009332,-1.5692
+Vanilla,Bodybuilding.com Signature,Bodybuilding.com Signature | Signature Casein,Vanilla,powder,0.7300,0.00009332,-1.5687
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Banana Cream,powder,1.3000,0.00108815,-2.7625
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Chocolate Peanut Butter,powder,1.3000,0.00108815,-2.7724
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Chocolate Supreme,powder,1.3000,0.00108815,-2.7724
+Cookies & Cream,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Cookies & Cream,powder,1.3000,0.00108815,-2.7100
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Creamy Vanilla,powder,1.3000,0.00108815,-2.7625
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Strawberry Cream,powder,1.3000,0.00108815,-2.7625
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Chocolate,powder,1.4600,0.00108815,-3.1136
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,French Vanilla,powder,1.4600,0.00108815,-3.1025
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Chocolate Peanut Butter,powder,1.2600,0.00108815,-2.6870
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Chocolate Supreme,powder,1.2600,0.00108815,-2.6870
+Cookies & Cream,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Cookies & Cream,powder,1.2600,0.00108815,-2.6266
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Creamy Vanilla,powder,1.2600,0.00108815,-2.6775
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,Chocolate,powder,1.4000,0.00108815,-2.9856
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Casein Protein,French Vanilla,powder,1.4000,0.00108815,-2.9750
+Chocolate,Kaged Muscle,Kaged Muscle | Kasein Micellar Casein Isolate Protein,Chocolate Shake,powder,1.4000,0.00047825,-3.0002
+Vanilla,Kaged Muscle,Kaged Muscle | Kasein Micellar Casein Isolate Protein,Vanilla Shake,powder,1.4000,0.00047825,-2.9955
+Chocolate,RIVALUS,RIVALUS | Clean Gainer,Chocolate Fudge,powder,1.6900,0.00001705,-3.6350
+Chocolate,RIVALUS,RIVALUS | Clean Gainer,Chocolate Peanut Butter,powder,1.6900,0.00001705,-3.6350
+Other,RIVALUS,RIVALUS | Clean Gainer,Cinnamon Toast Cereal,powder,1.6900,0.00001705,-3.6333
+Cookies & Cream,RIVALUS,RIVALUS | Clean Gainer,Cookies & Creme,powder,1.6900,0.00001705,-3.6337
+Vanilla,RIVALUS,RIVALUS | Clean Gainer,Creamy Vanilla,powder,1.6900,0.00001705,-3.6348
+Other,RIVALUS,RIVALUS | Clean Gainer,S'Mores,powder,1.6900,0.00001705,-3.6333
+Vanilla,RIVALUS,RIVALUS | Clean Gainer,Creamy Vanilla,powder,1.8300,0.00001705,-3.9359
+Chocolate,RIVALUS,RIVALUS | Clean Gainer,Chocolate Fudge,powder,1.2700,0.00001705,-2.7316
+Chocolate,RIVALUS,RIVALUS | Clean Gainer,Chocolate Peanut Butter,powder,1.2700,0.00001705,-2.7316
+Other,RIVALUS,RIVALUS | Clean Gainer,Cinnamon Toast Cereal,powder,1.2700,0.00001705,-2.7304
+Cookies & Cream,RIVALUS,RIVALUS | Clean Gainer,Cookies & Crème,powder,1.2700,0.00001705,-2.7307
+Vanilla,RIVALUS,RIVALUS | Clean Gainer,Creamy Vanilla,powder,1.2700,0.00001705,-2.7315
+Other,RIVALUS,RIVALUS | Clean Gainer,S'mores,powder,1.2700,0.00001705,-2.7304
+Chocolate,Dymatize,Dymatize | Elite Casein Protein,Rich Chocolate,powder,1.2000,0.00070474,-2.5670
+Vanilla,Dymatize,Dymatize | Elite Casein Protein,Smooth Vanilla,powder,1.2000,0.00070474,-2.5611
+Other,Dymatize,Dymatize | Elite Casein Protein,Cinnamon Bun,powder,0.9800,0.00070474,-2.0566
+Cookies & Cream,Dymatize,Dymatize | Elite Casein Protein,Cookies and Cream,powder,0.9800,0.00070474,-2.0659
+Chocolate,Dymatize,Dymatize | Elite Casein Protein,Rich Chocolate,powder,0.9800,0.00070474,-2.0963
+Vanilla,Dymatize,Dymatize | Elite Casein Protein,Smooth Vanilla,powder,0.9800,0.00070474,-2.0915
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech Casein Gold,Chocolate Supreme,powder,0.9700,0.00104205,-2.0694
+Vanilla,MuscleTech,MuscleTech | Nitro-Tech Casein Gold,Creamy Vanilla,powder,0.9700,0.00104205,-2.0623
+Chocolate,MuscleTech,MuscleTech | Nitro-Tech Casein Gold,Chocolate Supreme,powder,0.8100,0.00104205,-1.7280
+Chocolate,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Chocolate,powder,0.8700,0.00005176,-1.8707
+Cookies & Cream,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Cookies 'N Cream,powder,0.8700,0.00005176,-1.8688
+Cookies & Cream,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Peanut Butter Cookie,powder,0.8700,0.00005176,-1.8688
+Vanilla,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Vanilla,powder,0.8700,0.00005176,-1.8704
+Cookies & Cream,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Cookies 'N Cream,powder,0.7100,0.00005176,-1.5251
+Vanilla,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Vanilla,powder,0.7100,0.00005176,-1.5264
+Chocolate,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Chocolate,powder,0.9800,0.00005176,-2.1073
+Cookies & Cream,Muscle Beach Nutrition,Muscle Beach Nutrition | 100% All-Pro,Peanut Butter Cookie,powder,0.9800,0.00005176,-2.1050
+Cookies & Cream,Dymatize,Dymatize | Super Mass Gainer,Cookies & Cream,powder,3.6200,0.00020413,-7.7421
+Vanilla,Dymatize,Dymatize | Super Mass Gainer,Gourmet Vanilla,powder,3.6200,0.00020413,-7.7695
+Chocolate,Dymatize,Dymatize | Super Mass Gainer,Rich Chocolate,powder,3.6200,0.00020413,-7.7746
+Cookies & Cream,Dymatize,Dymatize | Super Mass Gainer,Cookies & Cream,powder,3.0000,0.00020413,-6.4161
+Vanilla,Dymatize,Dymatize | Super Mass Gainer,Gourmet Vanilla,powder,3.0000,0.00020413,-6.4388
+Chocolate,Dymatize,Dymatize | Super Mass Gainer,Rich Chocolate,powder,3.0000,0.00020413,-6.4430
+Cookies & Cream,ABB,ABB | Pure Pro Shake 12 Bottles Cookies & Cream,Cookies & Cream,powder,4.0200,0.00011081,-8.6205
+Chocolate,Ascent,Ascent | Native Fuel Micellar Casein Protein,Chocolate,powder,1.6200,0.00002333,-3.4842
+Vanilla,Ascent,Ascent | Native Fuel Micellar Casein Protein,Vanilla Bean,powder,1.6200,0.00002333,-3.4840
+Vanilla,NutraBio,NutraBio | Muscle Matrix Protein 2 Lbs. Alpine Vanilla,Alpine Vanilla,powder,1.3800,0.00005249,-2.9669
+Chocolate,Six Star Pro Nutrition,Six Star Pro Nutrition | Casein Protein 2 Lbs. Triple Chocolate,Triple Chocolate,powder,1.0800,0.00142893,-2.2969
+Chocolate,NutraBio,NutraBio | Extreme Mass,Chocolate,powder,3.3300,0.00000583,-7.1631
+Vanilla,NutraBio,NutraBio | Extreme Mass,Vanilla,powder,3.3300,0.00000583,-7.1629
+Chocolate,Allmax Nutrition,Allmax Nutrition | CaseinFX,Chocolate,powder,1.4800,0.00000583,-3.1836
+Vanilla,Allmax Nutrition,Allmax Nutrition | CaseinFX,Vanilla,powder,1.4800,0.00000583,-3.1835
+Chocolate,Body Nutrition,Body Nutrition | Trutein Naturals,Chocolate Peanut Butter Cup,powder,1.9600,0.00002236,-4.2155
+Chocolate,Body Nutrition,Body Nutrition | Trutein Naturals,Dark Chocolate,powder,1.9600,0.00002236,-4.2155
+Chocolate,Body Nutrition,Body Nutrition | Trutein Naturals,Chocolate Peanut Butter Cup,powder,1.6000,0.00002236,-3.4413
+Other,Body Nutrition,Body Nutrition | Trutein Naturals,CinnaBun,powder,1.6000,0.00002236,-3.4392
+Chocolate,Body Nutrition,Body Nutrition | Trutein Naturals,Dark Chocolate,powder,1.6000,0.00002236,-3.4413
+Vanilla,Body Nutrition,Body Nutrition | Trutein Naturals,Vanilla Bean,powder,1.6000,0.00002236,-3.4410
+Chocolate,Myogenix,Myogenix | Myolean Evolution,Milk Chocolate,powder,1.7300,0.00007388,-3.7193
+Vanilla,Myogenix,Myogenix | Myolean Evolution,Vanilla,powder,1.7300,0.00007388,-3.7185
+Vanilla,Myogenix,Myogenix | Myolean Evolution,Vanilla,powder,1.6800,0.00007388,-3.6110
+Chocolate,Evlution Nutrition,Evlution Nutrition | Stacked Plant Protein,Natural Chocolate,powder,2.1100,0.00023038,-4.5307
+Vanilla,Evlution Nutrition,Evlution Nutrition | Stacked Plant Protein,Natural Vanilla,powder,2.1100,0.00023038,-4.5273
+Chocolate,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Plant,Chocolate,powder,1.8400,0.00006707,-3.9560
+Vanilla,Optimum Nutrition,Optimum Nutrition | Gold Standard 100% Plant,Vanilla,powder,1.8400,0.00006707,-3.9552
+Unflavored,NOW,NOW | Pea Protein 2 Lbs. Unflavored,Unflavored,powder,0.8100,0.00056574,-1.4515
+Chocolate,MusclePharm,MusclePharm | Natural Series Organic Protein Bars,Chocolate Toffee,bar,1.8100,0.00005832,-3.8736
+Peanut Butter,MusclePharm,MusclePharm | Natural Series Organic Protein Bars,Peanut Butter,bar,1.8100,0.00005832,-3.7743
+Other,Orgain,Orgain | Organic Plant Protein Powder,Natural Unsweetened,powder,2.1000,0.00000583,-4.5165
+Chocolate,Orgain,Orgain | Organic Plant Protein Powder,Chocolate Peanut Butter,powder,2.0600,0.00000583,-4.4312
+Chocolate,Orgain,Orgain | Organic Plant Protein Powder,Creamy Chocolate Fudge,powder,2.0600,0.00000583,-4.4312
+Peanut Butter,Orgain,Orgain | Organic Plant Protein Powder,Peanut Butter,powder,2.0600,0.00000583,-4.4167
+Vanilla,Orgain,Orgain | Organic Plant Protein Powder,Sweet Vanilla Bean,powder,2.0600,0.00000583,-4.4311
+Chocolate,Orgain,Orgain | Organic Plant Protein Powder,Creamy Chocolate Fudge,powder,2.9900,0.00000583,-6.4317
+Chocolate,REDCON1,REDCON1 | Green Beret Plant Protein,Chocolate,powder,1.5000,0.00000583,-3.2266
+Peanut Butter,REDCON1,REDCON1 | Green Beret Plant Protein,Peanut Butter,powder,1.5000,0.00000583,-3.2160
+Strawberry/Berry,REDCON1,REDCON1 | Green Beret Plant Protein,Strawberry,powder,1.5000,0.00000583,-3.2262
+Vanilla,REDCON1,REDCON1 | Green Beret Plant Protein,Vanilla,powder,1.5000,0.00000583,-3.2265
+Chocolate,Animal,Animal | Meal,Chocolate,powder,2.8900,0.00004958,-6.2144
+Vanilla,Animal,Animal | Meal,Vanilla,powder,2.8900,0.00004958,-6.2134
+Chocolate,Nutrasumma,Nutrasumma | Fermented Pea Protein,Chocolate,powder,1.6100,0.00000389,-3.4633
+Unflavored,Nutrasumma,Nutrasumma | Fermented Pea Protein,Unflavored,powder,1.6100,0.00000389,-3.4594
+Vanilla,Nutrasumma,Nutrasumma | Fermented Pea Protein,Vanilla,powder,1.6100,0.00000389,-3.4632
+Banana,S.A.N.,S.A.N. | rawfusion,Banana Nut,powder,1.4000,0.00009235,-2.9558
+Chocolate,S.A.N.,S.A.N. | rawfusion,Chocolate Strawberry,powder,1.4000,0.00009235,-3.0094
+Chocolate,S.A.N.,S.A.N. | rawfusion,Natural Chocolate,powder,1.4000,0.00009235,-3.0094
+Vanilla,S.A.N.,S.A.N. | rawfusion,Vanilla Bean,powder,1.4000,0.00009235,-3.0085
+Banana,S.A.N.,S.A.N. | rawfusion,Banana Nut,powder,1.1700,0.00009235,-2.4702
+Chocolate,S.A.N.,S.A.N. | rawfusion,Chocolate Strawberry,powder,1.1700,0.00009235,-2.5150
+Chocolate,S.A.N.,S.A.N. | rawfusion,Natural Chocolate,powder,1.1700,0.00009235,-2.5150
+Chocolate,S.A.N.,S.A.N. | rawfusion,Peanut Chocolate Fudge,powder,1.1700,0.00009235,-2.5150
+Vanilla,S.A.N.,S.A.N. | rawfusion,Vanilla Bean,powder,1.1700,0.00009235,-2.5143
+Banana,S.A.N.,S.A.N. | rawfusion,Banana Nut,powder,1.2000,0.00009235,-2.5336
+Chocolate,S.A.N.,S.A.N. | rawfusion,Natural Chocolate,powder,1.2000,0.00009235,-2.5795
+Vanilla,S.A.N.,S.A.N. | rawfusion,Vanilla Bean,powder,1.2000,0.00009235,-2.5787
+Cookies & Cream,Orgain,Orgain | Organic Protein Bar,Chocolate Chip Cookie Dough,bar,1.9900,0.00001166,-4.2739
+Other,Orgain,Orgain | Organic Protein Bar,S'mores,bar,1.9900,0.00001166,-4.2708
+Chocolate,PEScience,PEScience | Vegan Series Select Protein,Chocolate Bliss,powder,1.7600,0.00003597,-3.7850
+Vanilla,PEScience,PEScience | Vegan Series Select Protein,Vanilla Indulgence,powder,1.7600,0.00003597,-3.7845
+Chocolate,PEScience,PEScience | Vegan Series Select Protein,Chocolate Bliss,powder,1.4800,0.00003597,-3.1828
+Other,PEScience,PEScience | Vegan Series Select Protein,Cinnamon Delight,powder,1.4800,0.00003597,-3.1798
+Peanut Butter,PEScience,PEScience | Vegan Series Select Protein,Peanut Butter Delight,powder,1.4800,0.00003597,-3.1185
+Vanilla,PEScience,PEScience | Vegan Series Select Protein,Vanilla Indulgence,powder,1.4800,0.00003597,-3.1825
+Chocolate,Garden Of Life,Garden Of Life | Sport Organic Plant-Based Protein,Chocolate,powder,2.8900,0.00003208,-6.2153
+Vanilla,Garden Of Life,Garden Of Life | Sport Organic Plant-Based Protein,Vanilla,powder,2.8900,0.00003208,-6.2147
+Other,BetterBody Foods,BetterBody Foods | Organic Superfood Blend 30 Servings,{{vm.sku.name}},powder,0.5100,0.00001166,-1.0967
+Other,Lenny & Larry's,Lenny & Larry's | The Complete Crunchy Cookie,Cinnamon Sugar,bar,1.3100,0.00000194,-2.8169
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Crunchy Cookie,Double Chocolate,bar,1.3100,0.00000194,-2.8176
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Crunchy Cookie,Chocolate Chip,bar,1.7500,0.00000194,-3.7639
+Chocolate,Garden Of Life,Garden Of Life | RAW Organic Meal,Chocolate Cacao,powder,2.2500,0.00008554,-4.8368
+Other,Garden Of Life,Garden Of Life | RAW Organic Meal,Original,powder,2.2500,0.00008554,-4.8258
+Vanilla,Garden Of Life,Garden Of Life | RAW Organic Meal,Vanilla,powder,2.2500,0.00008554,-4.8355
+Chocolate,Performance Inspired Nutrition,Performance Inspired Nutrition | Plant-Based Protein,Chocolate Delight,powder,1.4200,0.00000292,-3.0546
+Vanilla,Performance Inspired Nutrition,Performance Inspired Nutrition | Plant-Based Protein,Vanilla Bean,powder,1.4200,0.00000292,-3.0546
+Unflavored,Garden Of Life,Garden Of Life | RAW Organic Protein,Unflavored,powder,2.4000,0.00014873,-4.9362
+Vanilla,Garden Of Life,Garden Of Life | RAW Organic Protein,Vanilla,powder,2.4000,0.00014873,-5.1542
+Vanilla,Nutrasumma,Nutrasumma | Plant Based Sport Protein 1.26 Lbs. Vanilla,Vanilla,powder,2.7100,0.00000583,-5.8293
+Chocolate,Garden Of Life,Garden Of Life | Sport Organic Plant-Based Performance Protein Bar,Chocolate Fudge,bar,3.7500,0.00000583,-8.0627
+Chocolate,Garden Of Life,Garden Of Life | Sport Organic Plant-Based Performance Protein Bar,Peanut Butter Chocolate,bar,3.7500,0.00000583,-8.0627
+Salted Caramel,Garden Of Life,Garden Of Life | Sport Organic Plant-Based Performance Protein Bar,Sea Salt Caramel,bar,3.7500,0.00000583,-8.0280
+Other,BetterBody Foods,BetterBody Foods | Organic Antioxidant Fruit & Fiber 22 Servings,{{vm.sku.name}},powder,0.6500,0.00000583,-1.3980
+Strawberry/Berry,Vega,Vega | Sport Premium Plant Protein,Berry,powder,3.1700,0.00007841,-6.8045
+Mocha / Coffee,Vega,Vega | Sport Premium Plant Protein,Mocha,powder,3.6700,0.00007841,-7.8390
+Vanilla,Vega,Vega | Sport Premium Plant Protein,Vanilla,powder,3.6700,0.00007841,-7.8879
+Strawberry/Berry,Vega,Vega | Sport Premium Plant Protein,Berry,powder,3.5300,0.00007841,-7.5772
+Chocolate,Vega,Vega | Sport Premium Plant Protein,Chocolate,powder,3.5300,0.00007841,-7.5889
+Mocha / Coffee,Vega,Vega | Sport Premium Plant Protein,Mocha,powder,3.5300,0.00007841,-7.5399
+Vanilla,Vega,Vega | Sport Premium Plant Protein,Vanilla,powder,3.5300,0.00007841,-7.5870
+Chocolate,Vega,Vega | Sport Premium Plant Protein,Chocolate,powder,2.7300,0.00007841,-5.8690
+Vanilla,Vega,Vega | Sport Premium Plant Protein,Vanilla,powder,2.7300,0.00007841,-5.8675
+Strawberry/Berry,Vega,Vega | Protein & Greens Plant Protein,Berry,powder,1.9000,0.00002722,-4.0842
+Other,Vega,Vega | Protein & Greens Plant Protein,Tropical,powder,1.9000,0.00002722,-4.0834
+Chocolate,Vega,Vega | Protein & Greens Plant Protein,Chocolate,powder,2.4200,0.00002722,-5.2047
+Other,Vega,Vega | Protein & Greens Plant Protein,Plain Unsweetened,powder,2.4200,0.00002722,-5.2009
+Vanilla,Vega,Vega | Protein & Greens Plant Protein,Vanilla,powder,2.4200,0.00002722,-5.2042
+Vanilla,Vega,Vega | Protein & Greens Plant Protein,Vanilla,powder,2.4400,0.00002722,-5.2473
+Other,Amazing Grass,Amazing Grass | Protein SuperFood,Original,powder,2.5800,0.00000778,-5.5485
+Vanilla,Amazing Grass,Amazing Grass | Protein SuperFood,Pure Vanilla,powder,2.5800,0.00000778,-5.5495
+Chocolate,Amazing Grass,Amazing Grass | Protein SuperFood,Chocolate Peanut Butter,powder,4.3000,0.00000778,-9.2495
+Chocolate,The Genius Brand,The Genius Brand | Genius Vegan Protein 1.53 Lbs. Chocolate,Chocolate,powder,1.3900,0.00000583,-2.9900
+Peanut Butter,Vega,Vega | Sport Protein Bar 12 - 70g Bars Crunchy Peanut Butter,Crunchy Peanut Butter,bar,3.8300,0.00025662,-7.1279
+Chocolate,Vega,Vega | Protein Smoothie Plant-Based Protein,Chocolate,powder,2.1000,0.00008165,-4.5145
+Strawberry/Berry,Vega,Vega | Protein Smoothie Plant-Based Protein,Berry,powder,2.0000,0.00008165,-4.2926
+Chocolate,Vega,Vega | Protein Bar 12 - 70g Bars Chocolate Peanut Butter,Chocolate Peanut Butter,bar,3.8300,0.00000583,-8.2348
+Vanilla,Nutrasumma,Nutrasumma | Plant Protein with Organic Mushrooms 1.19 Lbs. Vanilla,Vanilla,powder,2.5300,0.00000583,-5.4421
+Chocolate,Vega,Vega | ONE,Chocolate,powder,3.6200,0.00005379,-7.7839
+Vanilla,Vega,Vega | ONE,French Vanilla,powder,3.6200,0.00005379,-7.7826
+Chocolate,Vega,Vega | ONE,Chocolate,powder,4.3000,0.00005379,-9.2461
+Other,Vega,Vega | ONE,Plain Unsweetened,powder,3.7000,0.00005379,-7.9445
+Chocolate,Vega,Vega | ONE,Chocolate,powder,4.4400,0.00005379,-9.5471
+Strawberry/Berry,Vega,Vega | ONE,Berry,powder,4.2100,0.00005379,-9.0430
+Chocolate,Vega,Vega | ONE,Chocolate,powder,5.2300,0.00005379,-11.2458
+Vanilla,Vega,Vega | ONE,French Vanilla,powder,5.2300,0.00005379,-11.2439
+Mocha / Coffee,Vega,Vega | ONE,Mocha,powder,5.2300,0.00005379,-11.1960
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Double Chocolate,bar,1.8700,0.00009018,-3.9908
+Other,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Lemon Poppy Seed,bar,1.8700,0.00009018,-3.9497
+Other,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Snickerdoodle,bar,1.8700,0.00009018,-3.9497
+Other,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Apple Pie,bar,0.8700,0.00009018,-1.8376
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Chocolate Chip,bar,0.8700,0.00009018,-1.8567
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Chocolate Donut,bar,0.8700,0.00009018,-1.8567
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Chocolate Mint,bar,0.8700,0.00009018,-1.8567
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Double Chocolate,bar,0.8700,0.00009018,-1.8567
+Other,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Lemon Poppy Seed,bar,0.8700,0.00009018,-1.8376
+Peanut Butter,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Peanut Butter,bar,0.8700,0.00009018,-1.7828
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Peanut Butter Chocolate Chip,bar,0.8700,0.00009018,-1.8567
+Other,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,Snickerdoodle,bar,0.8700,0.00009018,-1.8376
+Chocolate,Lenny & Larry's,Lenny & Larry's | The Complete Cookie,White Chocolate Macadamia,bar,0.8700,0.00009018,-1.8567
+Chocolate,Optimum Nutrition,Optimum Nutrition | Protein Wafers,Chocolate Creme,bar,2.5500,0.00001021,-5.4806
+Chocolate,Optimum Nutrition,Optimum Nutrition | Protein Wafers,Chocolate Raspberry Creme,bar,2.5500,0.00001021,-5.4806
+Mocha / Coffee,Optimum Nutrition,Optimum Nutrition | Protein Wafers,Mocha Creme,bar,2.5500,0.00001021,-5.3525
+Vanilla,Optimum Nutrition,Optimum Nutrition | Protein Wafers,Vanilla Creme,bar,2.5500,0.00001021,-5.2275
+Peanut Butter,MET-Rx,MET-Rx | Big 100 Colossal Bars,Peanut Butter Pretzel,bar,3.1100,0.00047534,-5.0189
+Cookies & Cream,MET-Rx,MET-Rx | Big 100 Colossal Bars,Super Cookie Crunch,bar,3.1100,0.00047534,-6.2466
+Salted Caramel,Grenade,Grenade | Carb Killa Protein Bar,Caramel Chaos,bar,2.3900,0.00006610,-4.8601
+Cookies & Cream,Grenade,Grenade | Carb Killa Protein Bar,Chocolate Chip Cookie Dough,bar,2.3900,0.00006610,-5.0939
+Chocolate,Grenade,Grenade | Carb Killa Protein Bar,Chocolate Cream,bar,2.3900,0.00006610,-5.1114
+Peanut Butter,Grenade,Grenade | Carb Killa Protein Bar,Peanut Nutter,bar,2.3900,0.00006610,-4.9627
+Cookies & Cream,Grenade,Grenade | Carb Killa Protein Bar,White Chocolate Cookie,bar,2.3900,0.00006610,-5.0939
+Birthday Cake,Grenade,Grenade | Carb Killa Protein Bar,Birthday Cake,bar,1.8700,0.00006610,-3.6595
+Salted Caramel,Grenade,Grenade | Carb Killa Protein Bar,Caramel Chaos,bar,1.8700,0.00006610,-3.8027
+Cookies & Cream,Grenade,Grenade | Carb Killa Protein Bar,Chocolate Chip Cookie Dough,bar,1.8700,0.00006610,-3.9856
+Chocolate,Grenade,Grenade | Carb Killa Protein Bar,Chocolate Cream,bar,1.8700,0.00006610,-3.9993
+Peanut Butter,Grenade,Grenade | Carb Killa Protein Bar,Peanut Nutter,bar,1.8700,0.00006610,-3.8830
+Cookies & Cream,Grenade,Grenade | Carb Killa Protein Bar,White Chocolate Cookie,bar,1.8700,0.00006610,-3.9856
+Chocolate,Grenade,Grenade | Carb Killa Protein Bar,White Chocolate Salted Peanut,bar,1.8700,0.00006610,-3.9993
+Chocolate,Quest Nutrition,Quest Nutrition | Protein Cookie,Chocolate Chip,bar,2.0800,0.00000875,-4.4710
+Chocolate,Quest Nutrition,Quest Nutrition | Protein Cookie,Double Chocolate Chip,bar,2.0800,0.00000875,-4.4710
+Peanut Butter,Quest Nutrition,Quest Nutrition | Protein Cookie,Peanut Butter,bar,2.0800,0.00000875,-4.4539
+Chocolate,Quest Nutrition,Quest Nutrition | Protein Cookie,Peanut Butter Chocolate Chip,bar,2.0800,0.00000875,-4.4710
+Chocolate,Universal Nutrition,Universal Nutrition | Hi Protein Bars,Chocolate Brownie,bar,1.8700,0.00017497,-3.9608
+Chocolate,Universal Nutrition,Universal Nutrition | Hi Protein Bars,Chocolate Peanut Butter,bar,1.8700,0.00017497,-3.9608
+Other,ONE,ONE | ONE Bar,Almond Bliss,bar,2.4200,0.00003645,-5.1677
+Birthday Cake,ONE,ONE | ONE Bar,Birthday Cake,bar,2.4200,0.00003645,-4.9466
+Strawberry/Berry,ONE,ONE | ONE Bar,Blueberry Cobbler,bar,2.4200,0.00003645,-5.0781
+Chocolate,ONE,ONE | ONE Bar,Chocolate Brownie,bar,2.4200,0.00003645,-5.1891
+Cookies & Cream,ONE,ONE | ONE Bar,Chocolate Chip Cookie Dough,bar,2.4200,0.00003645,-5.1794
+Other,ONE,ONE | ONE Bar,Cinnamon Roll,bar,2.4200,0.00003645,-5.1677
+Cookies & Cream,ONE,ONE | ONE Bar,Cookies & Creme,bar,2.4200,0.00003645,-5.1794
+Other,ONE,ONE | ONE Bar,Lemon Cake,bar,2.4200,0.00003645,-5.1677
+Other,ONE,ONE | ONE Bar,Maple Glazed Doughnut,bar,2.4200,0.00003645,-5.1677
+Chocolate,ONE,ONE | ONE Bar,Peanut Butter Chocolate Cake,bar,2.4200,0.00003645,-5.1891
+Peanut Butter,ONE,ONE | ONE Bar,Peanut Butter Pie,bar,2.4200,0.00003645,-5.1061
+Salted Caramel,ONE,ONE | ONE Bar,Salted Caramel,bar,2.4200,0.00003645,-5.0488
+Cookies & Cream,MET-Rx,MET-Rx | Big 100 9 Bars Chocolate Chip Cookie Dough,Chocolate Chip Cookie Dough,bar,3.4400,0.00027412,-7.1171
+Chocolate,MET-Rx,MET-Rx | Protein Plus Bars,Chocolate Chocolate Chunk,bar,3.1100,0.00007349,-6.6469
+Chocolate,MET-Rx,MET-Rx | Protein Plus Bars,Chocolate Fudge Deluxe,bar,3.1100,0.00007349,-6.6469
+Peanut Butter,MET-Rx,MET-Rx | Protein Plus Bars,Peanut Butter Cup,bar,3.1100,0.00007349,-6.4318
+Chocolate,MET-Rx,MET-Rx | Protein Plus Bars,Chocolate Roasted Peanut,bar,3.1100,0.00007349,-6.6469
+Peanut Butter,MET-Rx,MET-Rx | Protein Plus Bars,Creamy Peanut Butter Crisp,bar,3.1100,0.00007349,-6.4318
+Chocolate,Universal Nutrition,Universal Nutrition | Doctor's CarbRite Diet Bars,Chocolate Brownie,bar,1.5000,0.00006027,-3.2097
+Other,Universal Nutrition,Universal Nutrition | Doctor's CarbRite Diet Bars,S'mores,bar,1.5000,0.00006027,-3.1876
+Other,Universal Nutrition,Universal Nutrition | Doctor's CarbRite Diet Bars,Toasted Coconut,bar,1.5000,0.00006027,-3.1876
+Chocolate,PEScience,PEScience | Select Protein Bar 12 Bars White Chocolate Raspberry,White Chocolate Raspberry,bar,2.6700,0.00001166,-5.7377
+Chocolate,OhYeah! Nutrition,OhYeah! Nutrition | OhYeah! Bars,Almond Fudge Brownie,bar,2.5900,0.00020899,-5.4691
+Chocolate,OhYeah! Nutrition,OhYeah! Nutrition | OhYeah! Bars,Chocolate Carmel Candies,bar,3.0000,0.00020899,-6.3349
+Salted Caramel,OhYeah! Nutrition,OhYeah! Nutrition | OhYeah! Bars,Chocolate & Caramel,bar,3.1700,0.00020899,-5.6400
+Salted Caramel,OhYeah! Nutrition,OhYeah! Nutrition | OhYeah! Bars,Cookie Caramel Crunch,bar,3.1700,0.00020899,-5.6400
+Salted Caramel,OhYeah! Nutrition,OhYeah! Nutrition | OhYeah! Bars,Peanut Butter & Caramel,bar,3.1700,0.00020899,-5.6400
+Peanut Butter,OhYeah! Nutrition,OhYeah! Nutrition | OhYeah! Bars,Peanut Butter Crunch,bar,3.1700,0.00020899,-6.0703
+Chocolate,WICKED Protein,WICKED Protein | WICKED Protein Bars,Dark Chocolate Cayenne,bar,1.8700,0.00000194,-4.0220
+Other,WICKED Protein,WICKED Protein | WICKED Protein Bars,Maple,bar,1.8700,0.00000194,-4.0211
+Chocolate,WICKED Protein,WICKED Protein | WICKED Protein Bars,Peanut Butter Chocolate,bar,1.8700,0.00000194,-4.0220
+Chocolate,Convenient Nutrition,Convenient Nutrition | Keto Wheyfer,Cocoa Cream,bar,2.0000,0.00000194,-4.3016
+Mocha / Coffee,Convenient Nutrition,Convenient Nutrition | Keto Wheyfer,Coffee Cream,bar,2.0000,0.00000194,-4.2825
+Vanilla,Convenient Nutrition,Convenient Nutrition | Keto Wheyfer,Vanilla Cream,bar,2.0000,0.00000194,-4.2638
+Cookies & Cream,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Cookies And Cream,powder,1.5900,0.00113625,-3.3099
+Chocolate,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Milk Chocolate,powder,1.5900,0.00113625,-3.3895
+Strawberry/Berry,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Strawberry,powder,1.5900,0.00113625,-3.3131
+Vanilla,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Vanilla,powder,1.5900,0.00113625,-3.3769
+Cookies & Cream,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Cookies And Cream,powder,1.4400,0.00113625,-2.9976
+Chocolate,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Milk Chocolate,powder,1.4400,0.00113625,-3.0697
+Strawberry/Berry,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Strawberry,powder,1.4400,0.00113625,-3.0006
+Vanilla,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Vanilla,powder,1.4400,0.00113625,-3.0584
+Mocha / Coffee,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Mocha Cappuccino Swirl,powder,1.4400,0.00113625,-2.7802
+Chocolate,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Milk Chocolate,powder,1.2500,0.00113625,-2.6647
+Vanilla,MuscleTech,MuscleTech | Nitro Tech Protein Powder,Vanilla,powder,1.2500,0.00113625,-2.6548
+Chocolate,MusclePharm,MusclePharm | Combat Whey Protein Powder,Chocolate Milk,powder,0.7800,0.00159171,-1.6567
+Cookies & Cream,MusclePharm,MusclePharm | Combat Whey Protein Powder,Cookies N' Cream,powder,0.7800,0.00159171,-1.6020
+Vanilla,MusclePharm,MusclePharm | Combat Whey Protein Powder,Vanilla,powder,0.7800,0.00159171,-1.6481
+Vanilla,MusclePharm,MusclePharm | Combat Whey Protein Powder,Banana Cream,powder,0.6500,0.00159171,-1.3734
+Chocolate,MusclePharm,MusclePharm | Combat Whey Protein Powder,Chocolate Milk,powder,0.6500,0.00159171,-1.3806
+Chocolate,MusclePharm,MusclePharm | Combat Whey Protein Powder,Chocolate Peanut Butter,powder,0.6500,0.00159171,-1.3806
+Cookies & Cream,MusclePharm,MusclePharm | Combat Whey Protein Powder,Cookies N' Cream,powder,0.6500,0.00159171,-1.3350
+Strawberry/Berry,MusclePharm,MusclePharm | Combat Whey Protein Powder,Triple Berry,powder,0.6500,0.00159171,-1.3369
+Vanilla,MusclePharm,MusclePharm | Combat Whey Protein Powder,Vanilla,powder,0.6500,0.00159171,-1.3734
+Vanilla,MusclePharm,MusclePharm | Combat Whey Protein Powder,Vanilla,powder,0.5000,0.00159171,-1.0565
+Chocolate,MusclePharm,MusclePharm | Combat Whey Protein Powder,Chocolate Milk,powder,0.7000,0.00159171,-1.4868
+Unflavored,Isopure,Isopure | Isopure Whey Protein Isolate,Unflavored,powder,1.0600,0.00020413,-2.1429
+Unflavored,Isopure,Isopure | Isopure Whey Protein Isolate,Unflavored,powder,1.0600,0.00020413,-2.1429
+Chocolate,Universal Nutrition,Universal Nutrition | Egg Pro,Chocolate,powder,1.4600,0.00004666,-3.1395
+Vanilla,Universal Nutrition,Universal Nutrition | Egg Pro,Vanilla,powder,1.4600,0.00004666,-3.1391
+Chocolate,MuscleMeds,MuscleMeds | Carnivor,Chocolate,powder,1.0300,0.00042835,-2.2082
+Chocolate,MuscleMeds,MuscleMeds | Carnivor,Chocolate Peanut Butter,powder,1.0300,0.00042835,-2.2082
+Salted Caramel,MuscleMeds,MuscleMeds | Carnivor,Vanilla Caramel,powder,1.0300,0.00042835,-1.9146
+Chocolate,MuscleMeds,MuscleMeds | Carnivor,Chocolate,powder,0.8000,0.00042835,-1.7151
+Chocolate,MuscleMeds,MuscleMeds | Carnivor,Chocolate Peanut Butter,powder,0.8000,0.00042835,-1.7151
+Other,MuscleMeds,MuscleMeds | Carnivor,Fruit Punch,powder,0.8000,0.00042835,-1.6954
+Strawberry/Berry,MuscleMeds,MuscleMeds | Carnivor,Strawberry,powder,0.8000,0.00042835,-1.7006
+Salted Caramel,MuscleMeds,MuscleMeds | Carnivor,Vanilla Caramel,powder,0.8000,0.00042835,-1.4870
+Chocolate,MuscleMeds,MuscleMeds | Carnivor,Chocolate,powder,0.8300,0.00042835,-1.7794
+Strawberry/Berry,Optimum Nutrition,Optimum Nutrition | Gold Standard Natural 100% Whey 4.8 Lbs. Strawberry,Strawberry,powder,0.9400,0.00208799,-1.9056
+Chocolate,Dymatize,Dymatize | Elite 100% Whey Protein,Rich Chocolate,powder,1.1600,0.00053658,-2.4847
+Chocolate,Dymatize,Dymatize | Elite 100% Whey Protein,Chocolate Peanut Butter,powder,1.2000,0.00053658,-2.5704
+Vanilla,Dymatize,Dymatize | Elite 100% Whey Protein,Gourmet Vanilla,powder,1.2000,0.00053658,-2.5659
+Strawberry/Berry,Dymatize,Dymatize | Elite 100% Whey Protein,Strawberry Blast,powder,1.2000,0.00053658,-2.5432
+Mocha / Coffee,Dymatize,Dymatize | Elite 100% Whey Protein,Cafe Mocha,powder,0.8900,0.00053658,-1.8219
+Chocolate,Dymatize,Dymatize | Elite 100% Whey Protein,Chocolate Fudge,powder,0.8900,0.00053658,-1.9064
+Chocolate,Dymatize,Dymatize | Elite 100% Whey Protein,Chocolate Peanut Butter,powder,0.8900,0.00053658,-1.9064
+Cookies & Cream,Dymatize,Dymatize | Elite 100% Whey Protein,Cookies & Cream,powder,0.8900,0.00053658,-1.8853
+Vanilla,Dymatize,Dymatize | Elite 100% Whey Protein,Gourmet Vanilla,powder,0.8900,0.00053658,-1.9031
+Strawberry/Berry,Dymatize,Dymatize | Elite 100% Whey Protein,Raspberry Cheesecake,powder,0.8900,0.00053658,-1.8862
+Chocolate,Dymatize,Dymatize | Elite 100% Whey Protein,Rich Chocolate,powder,0.8900,0.00053658,-1.9064
+Strawberry/Berry,Dymatize,Dymatize | Elite 100% Whey Protein,Strawberry Blast,powder,0.8900,0.00053658,-1.8862
+Strawberry/Berry,Dymatize,Dymatize | Elite 100% Whey Protein,Strawberry Blast,powder,0.7100,0.00053658,-1.5047
+Vanilla,Dymatize,Dymatize | Elite 100% Whey Protein,Gourmet Vanilla,powder,0.7200,0.00053658,-1.5396
+Chocolate,Dymatize,Dymatize | Elite 100% Whey Protein,Rich Chocolate,powder,0.7200,0.00053658,-1.5422
+Chocolate,PEScience,PEScience | Select Protein,Frosted Chocolate Cupcake,powder,2.0800,0.00014399,-4.4693
+Vanilla,PEScience,PEScience | Select Protein,Gourmet Vanilla,powder,2.0800,0.00014399,-4.4672
+Cookies & Cream,PEScience,PEScience | Select Protein,Peanut Butter Cookie,powder,2.0800,0.00014399,-4.4561
+Other,PEScience,PEScience | Select Protein,Snickerdoodle,powder,2.0800,0.00014399,-4.4521
+Strawberry/Berry,PEScience,PEScience | Select Protein,Strawberry Cheesecake,powder,2.0800,0.00014399,-4.4567
+Chocolate,PEScience,PEScience | Select Protein,Chocolate Peanut Butter Cup,powder,1.4100,0.00014399,-3.0297
+Chocolate,PEScience,PEScience | Select Protein,Frosted Chocolate Cupcake,powder,1.4100,0.00014399,-3.0297
+Vanilla,PEScience,PEScience | Select Protein,Gourmet Vanilla,powder,1.4100,0.00014399,-3.0283
+Cookies & Cream,PEScience,PEScience | Select Protein,Peanut Butter Cookie,powder,1.4100,0.00014399,-3.0207
+Other,PEScience,PEScience | Select Protein,Snickerdoodle,powder,1.4100,0.00014399,-3.0180
+Strawberry/Berry,PEScience,PEScience | Select Protein,Strawberry Cheesecake,powder,1.4100,0.00014399,-3.0211
+Chocolate,PEScience,PEScience | Select Protein,Chocolate Peanut Butter Cup,powder,0.9500,0.00014399,-2.0413
+Chocolate,PEScience,PEScience | Select Protein,Frosted Chocolate Cupcake,powder,0.9500,0.00014399,-2.0413
+Vanilla,PEScience,PEScience | Select Protein,Gourmet Vanilla,powder,0.9500,0.00014399,-2.0403
+Cookies & Cream,PEScience,PEScience | Select Protein,Peanut Butter Cookie,powder,0.9500,0.00014399,-2.0352
+Other,PEScience,PEScience | Select Protein,Snickerdoodle,powder,0.9500,0.00014399,-2.0334
+Chocolate,Beverly International,Beverly International | Muscle Provider Protein Powder,Chocolate,powder,1.2500,0.00011956,-2.6864
+Vanilla,Beverly International,Beverly International | Muscle Provider Protein Powder,Vanilla,powder,1.2500,0.00011956,-2.6854
+Chocolate,Body Nutrition,Body Nutrition | Trutein,Chocolate Mint,powder,1.4400,0.00012654,-3.0946
+Other,Body Nutrition,Body Nutrition | Trutein,S'mores,powder,1.4800,0.00012654,-3.1698
+Vanilla,Body Nutrition,Body Nutrition | Trutein,Banana Cream,powder,1.7000,0.00012654,-3.6518
+Birthday Cake,Body Nutrition,Body Nutrition | Trutein,Birthday Cake,powder,1.7000,0.00012654,-3.5645
+Chocolate,Body Nutrition,Body Nutrition | Trutein,Chocolate,powder,1.7000,0.00012654,-3.6533
+Chocolate,Body Nutrition,Body Nutrition | Trutein,Chocolate Peanut Butter Cup,powder,1.7000,0.00012654,-3.6533
+Other,Body Nutrition,Body Nutrition | Trutein,CinnaBun,powder,1.7000,0.00012654,-3.6409
+Other,Body Nutrition,Body Nutrition | Trutein,Lemon Meringue Pie,powder,1.7000,0.00012654,-3.6409
+Mocha / Coffee,Body Nutrition,Body Nutrition | Trutein,Mocha,powder,1.7000,0.00012654,-3.6152
+Other,Body Nutrition,Body Nutrition | Trutein,Pumpkin Pie,powder,1.7000,0.00012654,-3.6409
+Other,Body Nutrition,Body Nutrition | Trutein,Red Velvet Cake,powder,1.7000,0.00012654,-3.6409
+Vanilla,Body Nutrition,Body Nutrition | Trutein,Vanilla Bean,powder,1.7000,0.00012654,-3.6518
+Vanilla,Body Nutrition,Body Nutrition | Trutein,Banana Cream,powder,1.3200,0.00012654,-2.8355
+Birthday Cake,Body Nutrition,Body Nutrition | Trutein,Birthday Cake,powder,1.3200,0.00012654,-2.7677
+Chocolate,Body Nutrition,Body Nutrition | Trutein,Chocolate,powder,1.3200,0.00012654,-2.8367
+Chocolate,Body Nutrition,Body Nutrition | Trutein,Chocolate Mint,powder,1.3200,0.00012654,-2.8367
+Chocolate,Body Nutrition,Body Nutrition | Trutein,Chocolate Peanut Butter Cup,powder,1.3200,0.00012654,-2.8367
+Other,Body Nutrition,Body Nutrition | Trutein,CinnaBun,powder,1.3200,0.00012654,-2.8271
+Other,Body Nutrition,Body Nutrition | Trutein,Lemon Meringue Pie,powder,1.3200,0.00012654,-2.8271
+Mocha / Coffee,Body Nutrition,Body Nutrition | Trutein,Mocha,powder,1.3200,0.00012654,-2.8071
+Other,Body Nutrition,Body Nutrition | Trutein,Red Velvet Cake,powder,1.3200,0.00012654,-2.8271
+Other,Body Nutrition,Body Nutrition | Trutein,S'mores,powder,1.3200,0.00012654,-2.8271
+Vanilla,Body Nutrition,Body Nutrition | Trutein,Vanilla Bean,powder,1.3200,0.00012654,-2.8355
+Chocolate,Isopure,Isopure | Perfect Whey Protein,Chocolate,powder,0.5900,0.00006707,-1.2685
+Vanilla,Isopure,Isopure | Perfect Whey Protein,Vanilla,powder,0.5900,0.00006707,-1.2682
+Chocolate,Dymatize,Dymatize | Elite XT Protein Powder,Rich Chocolate,powder,0.8100,0.00003791,-1.7419
+Vanilla,Dymatize,Dymatize | Elite XT Protein Powder,Rich Vanilla,powder,0.8100,0.00003791,-1.7417
+Cookies & Cream,Six Star Pro Nutrition,Six Star Pro Nutrition | Whey Protein Plus,Cookies & Cream,powder,1.5000,0.00219151,-3.0258
+Strawberry/Berry,Six Star Pro Nutrition,Six Star Pro Nutrition | Whey Protein Plus,Strawberry Cream Smoothie,powder,1.5000,0.00219151,-3.0317
+Chocolate,Six Star Pro Nutrition,Six Star Pro Nutrition | Whey Protein Plus,Triple Chocolate,powder,1.5000,0.00219151,-3.1706
+Vanilla,Six Star Pro Nutrition,Six Star Pro Nutrition | Whey Protein Plus,Vanilla Cream,powder,1.5000,0.00219151,-3.1477
+Chocolate,BSN,BSN | Isoburn Fat Burning Protein Powder,Chocolate Milkshake,powder,1.6500,0.00076696,-3.5278
+Vanilla,BSN,BSN | Isoburn Fat Burning Protein Powder,Vanilla Ice Cream,powder,1.6500,0.00076696,-3.5190
+Other,PEScience,PEScience | Select Protein 4 Oats,Maple Brown Sugar,powder,1.0700,0.00001944,-2.3002
+Peanut Butter,PEScience,PEScience | Select Protein 4 Oats,Peanut Butter & Honey,powder,1.0700,0.00001944,-2.2762
+Other,PEScience,PEScience | Select Protein 4 Oats,Apple Cinnamon,powder,1.3300,0.00001944,-2.8591
+Other,Isopure,Isopure | Isopure Tea,Black Tea - Lemon,powder,4.1300,0.00003791,-8.8726
+Other,Isopure,Isopure | Isopure Tea,Green Tea,powder,4.1300,0.00003791,-8.8726
+Chocolate,Muscle FX,Muscle FX | Whey FX Gold,Chocolate,powder,0.6000,0.00022455,-1.2884
+Vanilla,Muscle FX,Muscle FX | Whey FX Gold,Vanilla,powder,0.6000,0.00022455,-1.2875
+Salted Caramel,PEScience,PEScience | Select Protein Cafe Series,Caramel Macchiato,powder,1.1200,0.00004666,-2.3736
+Mocha / Coffee,PEScience,PEScience | Select Protein Cafe Series,Iced Mocha,powder,1.1200,0.00004666,-2.3992
+Chocolate,Optimum Nutrition,Optimum Nutrition | Performance Whey,Chocolate Shake,powder,1.0200,0.00049575,-2.1856
+Vanilla,Optimum Nutrition,Optimum Nutrition | Performance Whey,Vanilla Shake,powder,1.0200,0.00049575,-2.1820
+Chocolate,GAT Sport,GAT Sport | Nitra Whey,Chocolate Ice Cream,powder,1.5200,0.00000194,-3.2697
+Cookies & Cream,GAT Sport,GAT Sport | Nitra Whey,Peanut Butter Cookie,powder,1.5200,0.00000194,-3.2696
+Vanilla,GAT Sport,GAT Sport | Nitra Whey,Vanilla Ice Cream,powder,1.5200,0.00000194,-3.2697
+Vanilla,NOW,NOW | Eggwhite Protein,Vanilla Creme,powder,1.3300,0.00005832,-2.8592
+Chocolate,NOW,NOW | Eggwhite Protein,Rich Chocolate,powder,1.5900,0.00005832,-3.4188
+Vanilla,MET-Rx,MET-Rx | Natural Whey,Vanilla,powder,0.7600,0.00011956,-1.6327
+Chocolate,MET-Rx,MET-Rx | Natural Whey,Chocolate,powder,0.7700,0.00011956,-1.6548
+Unflavored,NOW,NOW | Soy Protein Isolate 2 Lbs. Unflavored,Unflavored,powder,0.5800,0.00006999,-1.2219
+Chocolate,iSatori,iSatori | 100% BIO ACTIVE WHEY,Chocolate Sensation,powder,0.8200,0.00008749,-1.7627
+Vanilla,iSatori,iSatori | 100% BIO ACTIVE WHEY,Vanilla Swirl,powder,0.8200,0.00008749,-1.7622
+Chocolate,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Chocolate Ice Cream,powder,0.6400,0.00012831,-1.3753
+Chocolate,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Double Chocolate Chip,powder,0.6600,0.00012831,-1.4183
+Mocha / Coffee,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Mocha Cappuccino,powder,0.6600,0.00012831,-1.4033
+Vanilla,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Vanilla Ice Cream,powder,0.6600,0.00012831,-1.4177
+Chocolate,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Chocolate Ice Cream,powder,0.6000,0.00012831,-1.2894
+Mocha / Coffee,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Mocha Cappuccino,powder,0.6000,0.00012831,-1.2758
+Vanilla,Universal Nutrition,Universal Nutrition | Ultra Whey Pro,Vanilla Ice Cream,powder,0.6000,0.00012831,-1.2889
+Vanilla,AST,AST | VP2 Whey Isolate,Creamy Vanilla,powder,1.5000,0.00049867,-3.2088
+Chocolate,AST,AST | VP2 Whey Isolate,Double Rich Chocolate,powder,1.5000,0.00049867,-3.2140
+Cookies & Cream,Pro Supps,Pro Supps | PS Whey,Cookies & Cream,powder,0.9000,0.00006257,-1.9326
+Chocolate,Pro Supps,Pro Supps | PS Whey,Chocolate Milkshake,powder,0.8900,0.00006257,-1.9136
+Vanilla,Pro Supps,Pro Supps | PS Whey,Vanilla Milkshake,powder,0.8900,0.00006257,-1.9132
+Birthday Cake,Pro Supps,Pro Supps | PS Whey,Birthday Cake,powder,0.7300,0.00006257,-1.5507
+Cookies & Cream,Pro Supps,Pro Supps | PS Whey,Cookies & Cream,powder,0.7300,0.00006257,-1.5676
+Mocha / Coffee,Pro Supps,Pro Supps | PS Whey,Mocha Cappuccino,powder,0.7300,0.00006257,-1.5615
+Strawberry/Berry,Pro Supps,Pro Supps | PS Whey,Strawberry Banana,powder,0.7300,0.00006257,-1.5676
+Chocolate,Pro Supps,Pro Supps | PS Whey,Chocolate Milkshake,powder,0.7500,0.00006257,-1.6126
+Vanilla,Pro Supps,Pro Supps | PS Whey,Vanilla Milkshake,powder,0.7500,0.00006257,-1.6122
+Chocolate,Pro Supps,Pro Supps | PS Whey,Chocolate Milkshake,powder,0.5600,0.00006257,-1.2041
+Vanilla,Pro Supps,Pro Supps | PS Whey,Vanilla Milkshake,powder,0.5600,0.00006257,-1.2038
+Vanilla,Healthy 'N Fit,Healthy 'N Fit | 100% Whey Pro-Amino,Vanilla Ice Cream,powder,2.4800,0.00010207,-5.3288
+Chocolate,Healthy 'N Fit,Healthy 'N Fit | 100% Whey Pro-Amino,Heavenly Chocolate,powder,1.8800,0.00010207,-4.0409
+Chocolate,MET-Rx,MET-Rx | Protein Plus 2 Lbs. Chocolate,Chocolate,powder,1.0500,0.00026829,-2.2539
+Vanilla,MET-Rx,MET-Rx | Ultramyosyn Whey 5 Lbs. Vanilla,Vanilla,powder,0.9700,0.00062990,-2.0719
+Other,RIVALUS,RIVALUS | Rival Whey Warm Ups 15 Servings Hot Apple Cider,Hot Apple Cider,powder,1.5000,0.00002333,-3.2241
